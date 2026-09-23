@@ -1,5 +1,7 @@
 # US Cross-Border Estate, Gift and Reporting Figures, 2015 to 2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22922297.svg)](https://doi.org/10.5281/zenodo.22922297)
+
 A year-by-year table of the US estate, gift, expatriation and foreign-reporting figures that cross-border planners quote. These are the numbers that matter to a person married to someone who is not a US citizen, a US person who receives a gift or inheritance from abroad, someone giving up US citizenship or a long-held green card, and anyone with a foreign bank account. Every amount is tied to the primary source it came from, which is the annual inflation Revenue Procedure (by section and Internal Revenue Bulletin page), the statute, or the Federal Register. The dataset also has a monthly IRC 7520 rate table running from January 2015 to October 2026.
 
 Compiled by [Kevin D. Klagge, Esq.](https://stepuplaw.com/about), a Florida estate planning attorney whose practice includes international and cross-border clients (Klagge Law, PLLC). Built and checked on September 23, 2026.
