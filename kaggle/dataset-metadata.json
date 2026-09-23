@@ -1,0 +1,116 @@
+{
+  "title": "US Cross-Border Estate and Gift Figures 2015-2026",
+  "subtitle": "Annual IRS amounts for foreign spouses, gifts, expatriation and FBAR",
+  "id": "stepuplaw/us-crossborder-estate-gift-figures",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "law",
+    "government",
+    "finance",
+    "united states",
+    "tax"
+  ],
+  "description": "A year-by-year table, 2015 to 2026, of the US estate, gift, expatriation and foreign-reporting figures that cross-border planners quote, namely the gift tax annual exclusion, the annual exclusion for gifts to a spouse who is not a US citizen, the estate and gift basic exclusion amount, the GST exemption, the special use valuation cap, the section 6166 2-percent amount, both Form 3520 foreign gift thresholds, the covered expatriate tax test, the section 877A exclusion, the FBAR civil penalty maximums, and the $13,000 nonresident alien estate credit. A second table gives the IRC 7520 rate for every month from January 2015 to October 2026.\n\nEvery amount cites the annual inflation Revenue Procedure by section and Internal Revenue Bulletin page, the statute, or the Federal Register document it came from. The 2026 basic exclusion of $15,000,000 is set by statute (Pub. L. 119-21 sec. 70106), not by inflation adjustment. The FBAR maximums did not rise in 2026. Column definitions are in schema.json.\n\nCanonical page and citation: https://stepuplaw.com/data/us-crossborder-estate-gift-figures/\nSource repository with the saved text of every source: https://github.com/stepuplaw/us-crossborder-estate-gift-figures\nAuthor: Kevin D. Klagge, Klagge Law, PLLC, ORCID https://orcid.org/0009-0002-1385-8498\n\nThis is reference data, not legal advice. Check the current Revenue Procedure before relying on a figure.",
+  "resources": [
+    {
+      "path": "figures.csv",
+      "description": "145 rows: 13 figures, one row per figure and year, 2015 to 2026, plus one row for the unindexed nonresident alien estate credit",
+      "schema": {
+        "fields": [
+          {
+            "name": "figure_id",
+            "description": "Stable identifier for the figure, e.g. gift_noncitizen_spouse",
+            "type": "string"
+          },
+          {
+            "name": "figure_name",
+            "description": "Plain-English name with the Code section",
+            "type": "string"
+          },
+          {
+            "name": "year",
+            "description": "Year the amount applies to: calendar year of the gift, death or expatriation, or the taxable year for the Form 3520 thresholds. For FBAR penalties, the year the adjustment took effect (penalties follow the assessment date; see note). Blank for nra_estate_credit, which is one row for all years",
+            "type": "integer"
+          },
+          {
+            "name": "amount",
+            "description": "Amount in whole US dollars",
+            "type": "integer"
+          },
+          {
+            "name": "unit",
+            "description": "Always USD",
+            "type": "string"
+          },
+          {
+            "name": "authority",
+            "description": "Source of the amount: Rev. Proc. number, section, IRB issue and first page, then the pin page where known; or a statute; or a Federal Register citation",
+            "type": "string"
+          },
+          {
+            "name": "authority_url",
+            "description": "IRS Internal Revenue Bulletin PDF, federalregister.gov document, or GovInfo statute page",
+            "type": "string"
+          },
+          {
+            "name": "note",
+            "description": "Scope, caveats, superseded amounts, and how carried-over or derived rows were determined",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "section7520_rates.csv",
+      "description": "142 rows: the IRC 7520 rate for each month, January 2015 to October 2026",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "description": "Year the rate applies to",
+            "type": "integer"
+          },
+          {
+            "name": "month",
+            "description": "Month the rate applies to (1 to 12)",
+            "type": "integer"
+          },
+          {
+            "name": "rate_percent",
+            "description": "IRC 7520 rate in percent, e.g. 5.6",
+            "type": "number"
+          },
+          {
+            "name": "revenue_ruling",
+            "description": "The monthly applicable federal rate revenue ruling that announced the rate",
+            "type": "string"
+          },
+          {
+            "name": "irb_cite",
+            "description": "Internal Revenue Bulletin issue and first page of the ruling, or a statement that it is not yet in a bulletin",
+            "type": "string"
+          },
+          {
+            "name": "table",
+            "description": "The table in the ruling (always Table 5)",
+            "type": "string"
+          },
+          {
+            "name": "authority_url",
+            "description": "IRB PDF, or the irs.gov irs-drop PDF for October 2026",
+            "type": "string"
+          },
+          {
+            "name": "note",
+            "description": "Set only for September 2018, where the IRB table caption misprints the ruling number",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

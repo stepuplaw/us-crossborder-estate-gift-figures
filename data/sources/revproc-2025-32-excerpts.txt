@@ -1,0 +1,25 @@
+Rev. Proc. 2025-32, 2025-45 I.R.B. 695
+Text from the local IRB corpus, issue 2025-45 (https://www.irs.gov/pub/irs-irbs/irb25-45.pdf).
+First page 695 is from the IRB cumulative finding lists. Pin pages (after the first page) come from the page markers in the extracted text, read in the header layout that reproduces the first page.
+
+--- section_2032a_cap: Rev. Proc. 2025-32, sec. 4.41, 2025-45 I.R.B. 695, 704 ---
+.41 Limitation on Aggregate Decrease in Value of Qualified Real Property in Decedent's Gross Estate. For an estate of a decedent dying in calendar year 2026, if the executor elects to use the special use valuation method under § 2032A for qualified real property, the aggregate decrease in the value of qualified real property resulting from electing to use § 2032A for purposes of the estate tax cannot exceed $1,460,000.
+
+--- gift_annual_exclusion: Rev. Proc. 2025-32, sec. 4.42, 2025-45 I.R.B. 695, 704 ---
+.42 Annual Exclusion for Gifts and Annual Exception for Covered Gifts and Covered Bequests Received from a Covered Expatriate. (1) For calendar year 2026, the first $19,000 of gifts to any person (other than gifts of future interests in property) are not included in the total amount of taxable gifts under § 2503 made during that year. (2) For calendar year 2026, the first $194,000 (instead of the amount provided in paragraph (1) of this section 4.42) of gifts to a spouse who is not a citizen of the United States (other than gifts of future interests in property) are not included in the total amount of taxable gifts under §§ 2503 and 2523(i)(2) made during that year. (3) The tax imposed under § 2801 on the receipt of covered gifts or covered bequests from a covered expatriate shall apply only to the extent that the value of covered gifts and covered bequests received during calendar year 2026 exceeds $19,000.
+
+--- form3520_foreign_gift_corp_partnership: Rev. Proc. 2025-32, sec. 4.47, 2025-45 I.R.B. 695, 704 ---
+.47 Notice of Large Gifts Received from Foreign Persons. For taxable years beginning in 2026, § 6039F authorizes the Secretary of the Treasury or the Secretary's delegate to require recipients of gifts from certain foreign persons to report these gifts if the aggregate value of gifts received in the taxable year exceeds $20,573.
+
+--- expatriation_avg_tax_liability: Rev. Proc. 2025-32, sec. 4.37, 2025-45 I.R.B. 695, 704 ---
+.37 Expatriation to Avoid Tax. For calendar year 2026, under § 877A(g)(1)(A), unless an exception under § 877A(g)(1)(B) applies, an individual is a covered expatriate if the individual's "average annual net income tax" under § 877(a)(2)(A) for the five taxable years ending before the expatriation date is more than $211,000.
+
+--- expatriation_877a_exclusion: Rev. Proc. 2025-32, sec. 4.38, 2025-45 I.R.B. 695, 704 ---
+.38 Tax Responsibilities of Expatriation. For taxable years beginning in 2026, the amount that would be includible in the gross income of a covered expatriate by reason of § 877A(a)(1) is reduced (but not below zero) by $910,000 pursuant to § 877A(a)(3).
+
+--- section_6166_2pct_amount: Rev. Proc. 2025-32, sec. 4.51, 2025-45 I.R.B. 695, 704 ---
+.51 Interest on a Certain Portion of the Estate Tax Payable in Installments. For an estate of a decedent dying in calendar year 2026, the dollar amount used to determine the "2-percent portion" (for purposes of calculating interest under § 6601(j)) of the estate tax extended as provided in § 6166 is $1,940,000.
+
+--- basic_exclusion_statutory: Rev. Proc. 2025-32, sec. 2.14, 2025-45 I.R.B. 695, 697 ---
+.14 Section 70106 of the OBBBA amends § 2010(c)(3) by increasing the basic exclusion amount to $15,000,000 for calendar year 2026. The basic exclusion amount is a component of the applicable exclusion amount described in § 2010(c)(2) and is used in determining the applicable credit amount against estate tax described in § 2010(c)(1) and the applicable credit amount against gift tax described in § 2505(a)(1). For calendar year 2026, the generation-skipping transfer exemption amount under § 2631(c) is equal to $15,000,000. These numbers are adjusted for inflation for taxable years beginning after December 31, 2026. The basic exclusion amount will be adjusted for inflation for calendar year 2027 and future years.
+

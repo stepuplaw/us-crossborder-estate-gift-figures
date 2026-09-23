@@ -1,0 +1,43 @@
+{
+  "title": "US Cross-Border Estate, Gift and Reporting Figures, 2015 to 2026",
+  "upload_type": "dataset",
+  "description": "A year-by-year table, 2015 to 2026, of the US estate, gift, expatriation and foreign-reporting figures used in cross-border planning, namely the gift tax annual exclusion, the annual exclusion for gifts to a non-citizen spouse, the basic exclusion amount, the GST exemption, the section 2032A cap, the section 6166 2-percent amount, the Form 3520 foreign gift thresholds, the covered expatriate tax test, the section 877A exclusion, the FBAR civil penalty maximums and the nonresident alien estate credit, plus the IRC 7520 rate for every month from January 2015 to October 2026. Every amount cites the Revenue Procedure section and Internal Revenue Bulletin page, the statute or the Federal Register document it came from, with saved text of each source. The 2026 basic exclusion and GST exemption of $15,000,000 are set by statute (Pub. L. 119-21 sec. 70106), not by inflation adjustment, and the FBAR penalty maximums carried over unchanged into 2026 after the 2026 civil penalty inflation adjustment was cancelled. All figures checked 2026-09-23.",
+  "creators": [
+    {
+      "name": "Klagge, Kevin D.",
+      "affiliation": "Klagge Law, PLLC (StepUpLaw)",
+      "orcid": "0009-0002-1385-8498"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "version": "2026.09.23",
+  "keywords": [
+    "estate tax",
+    "gift tax",
+    "non-citizen spouse",
+    "QDOT",
+    "Form 3520",
+    "expatriation",
+    "exit tax",
+    "FBAR",
+    "section 7520",
+    "international tax",
+    "United States",
+    "open data",
+    "2026"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://stepuplaw.com/data/us-crossborder-estate-gift-figures/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/stepuplaw/us-crossborder-estate-gift-figures",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

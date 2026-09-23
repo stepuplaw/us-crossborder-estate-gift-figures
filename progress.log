@@ -1,0 +1,17 @@
+2026-09-23 gift_annual_exclusion: 12 rows 2015 to 2026 from Rev. Procs 2014-61 to 2025-32 (local IRB corpus); saved data/figures.csv
+2026-09-23 gift_noncitizen_spouse: 12 rows 2015 to 2026 from Rev. Procs 2014-61 to 2025-32; saved
+2026-09-23 basic_exclusion: 12 rows; 2018 from Rev. Proc. 2018-18 (supersedes 2017-58); 2026 statutory $15,000,000 via Pub. L. 119-21 sec. 70106 and Rev. Proc. 2025-32 sec. 2.14; saved
+2026-09-23 gst_exemption: 12 rows; IRC 2631(c) equals basic exclusion; 2026 stated directly in Rev. Proc. 2025-32 sec. 2.14; saved
+2026-09-23 section_2032a_cap: 12 rows from Rev. Procs; saved
+2026-09-23 section_6166_2pct_amount: 12 rows from Rev. Procs; saved
+2026-09-23 form3520_foreign_gift_corp_partnership: 12 rows from Rev. Procs; 2018 from Rev. Proc. 2018-18; saved
+2026-09-23 form3520_foreign_gift_individual: 12 rows, $100,000 not indexed, confirmed in Notice 97-34 sec. VI.B.1, 1997-25 I.R.B. 22, 30; saved
+2026-09-23 expatriation_avg_tax_liability: 12 rows from Rev. Procs; saved
+2026-09-23 expatriation_877a_exclusion: 12 rows from Rev. Procs; 2018 from Rev. Proc. 2018-18; saved
+2026-09-23 section_6039f_penalty_note: skipped by design; IRC 6039F(c) penalty is 5% per month up to 25% of the gift, no indexed dollar amount (statute text saved)
+2026-09-23 nra_estate_credit: 1 row, $13,000 IRC 2102(b)(1), not indexed; saved
+2026-09-23 fbar_penalty_nonwillful_max: 12 rows; 2015 statutory $10,000; 2016 to 2025 from FinCEN/Treasury FR rules (81 FR 42503 to 90 FR 5629, text via GovInfo); 2026 carries 2025 amount, adjustment cancelled by OMB M-26-11 (per 91 FR 25936); saved
+2026-09-23 fbar_penalty_willful_max_floor: 12 rows; same sources; saved
+2026-09-23 section7520_rates: 142 months Jan 2015 to Oct 2026; 141 from local IRB corpus, Oct 2026 from irs-drop rr-26-19.pdf (5.6%); Sep 2018 caption misprint (2018-21 for 2018-23) flagged; saved data/section7520_rates.csv
+2026-09-23 popular pages: saved US-popular-irs-expatriation-tax, greenback-form-3520, evans-legal-rates-exclusions, elderlawanswers-2026-exemptions (plus irs-gifts-from-foreign-person, evans-legal-7520-rates as checks); 7520 table matches Evans for all 142 months
+2026-09-23 README.md and REPORT.md written; dash check clean on all authored files

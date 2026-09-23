@@ -1,0 +1,60 @@
+Notice 97-34, 1997-25 I.R.B. 22 (June 23, 1997), Section VI (U.S. Recipients of Foreign Gifts), part B.1 at page 30.
+Text from the local IRB corpus, issue 1997-25 (https://www.irs.gov/pub/irs-irbs/irb97-25.pdf).
+First page 22 from the issue contents ("Notice 97-34, page 22"); page 30 from the page marker that follows the passage.
+
+Section VI. U.S. Recipients of Foreign Gifts. The Act creates new reporting requirements under
+section 6039F for U.S. persons (other than an organization described in section 501(c) and exempt
+from tax under section 501(a)) that receive large gifts (including bequests) from foreign persons
+after August 20, 1996. Generally, if the value of the aggregate foreign gifts received by a U.S.
+person during any taxable year exceeds $10,000, the U.S. recipient must provide such information as
+the Secretary prescribes. Section 6039F(a). The term "foreign gift'' means any amount received from
+a person other than a United States person that the recipient treats as a gift or bequest, but does
+not include any qualified transfer within the meaning of section 2503(e)(2) (relating to certain
+transfers for educational or medical expenses) or any distribution properly reported under section
+6048(c). Section 6039F(b). Reporting under section 6039F will be required on an annual basis on Form
+3520. It is expected that Form 3520 will only require the reporting of general information necessary
+to determine whether a purported gift is properly classified as a gift or income. For example,
+limited information will be required regarding whether the foreign donor is an individual,
+corporation, partnership, or estate, and whether the foreign donor was acting as a nominee or
+intermediary for another person. Also, a brief description of the property received will be
+required. It is expected that the form will not require information on the identity of the foreign
+donor unless the foreign donor is a partnership or foreign corporation, or is acting as a nominee or
+intermediary for such an entity. However, the U.S. donee may be required to provide additional
+information, including the identity of the donor, to the IRS upon request. If a gift is not reported
+on Form 3520, the tax consequences of the receipt of the gift shall be determined by the Secretary.
+Section 6039F(c)(1)(A). In addition, the recipient is subject to a penalty equal to 5 percent of the
+value of the gift for each month in which the gift is not reported (not to exceed 25 percent).
+Section 6039F(c)(1)(B). Reporting is only required under section 6039F for gifts actually or
+constructively received by a U.S. person. Furthermore, reporting is required under section 6039F
+only if the U.S. person knows or has reason to know that the donor is a foreign person. A.
+Application of section 6039F to distributions from and contributions to trusts If a foreign trust
+makes a distribution to a U.S. beneficiary, the beneficiary should report the amount as a
+distribution from the trust under section 6048(c), rather than as a gift under section 6039F.
+Contributions of property by foreign persons to domestic or foreign trusts that have U.S.
+beneficiaries are not reportable by the U.S. beneficiaries under section 6039F unless the U.S.
+persons are treated as receiving the contribution in the year of the transfer (e.g., the beneficiary
+is an owner of that portion of the trust under section 678). A domestic trust that is not treated as
+owned by another person is required to report the receipt of a contribution to the trust from a
+foreign person as a gift under section 6039F. A domestic trust that is treated as owned by a foreign
+person is not required to report the receipt of a contribution to the trust from a foreign person.
+However, a U.S. person should report the receipt of a distribution from such a trust as a gift from
+a foreign person under section 6039F. B. Reporting thresholds For purposes of determining whether
+the receipt of a gift from a foreign person is reportable, Treasury and the Service have determined
+that different reporting thresholds are warranted for gifts received from nonresident alien
+individuals, foreign estates, foreign partnerships, and foreign corporations. Accordingly, it is
+expected that Form 3520 will apply the following reporting thresholds and requirements: 1. Gifts
+from foreign individuals and foreign estates. A U.S. person is required to report the receipt of
+gifts from a nonresident alien or foreign estate only if the aggregate amount of gifts from that
+nonresident alien or foreign estate exceeds $100,000 during the taxable year. Once the $100,000
+threshold has been met, it is expected that Form 3520 will require the donee to separately identify
+each gift in excess of $5,000, but will not require the identification of the donor. 2. Purported
+gifts from foreign corporations or foreign partnerships A U.S. person is required to report the
+receipt of purported gifts from foreign corporations and foreign partnerships if the aggregate
+amount of purported gifts from all such entities exceeds $10,000 (as modified by costof-living
+adjustments under section 6039F(d)) during the taxable year. Once the $10,000 threshold has been
+met, it is expected that Form 3520 will require the donee to separately identify all purported gifts
+from a foreign corporation or foreign partnership, including the identity of the donor entity.
+Purported gifts from foreign corporations or foreign partnerships are subject to recharacterization
+under new section 672(f)(4). 3. Aggregation rules To calculate if a U.S. person has received gifts
+during the taxable year from a particular foreign person in excess of the relevant threshold, the
+U.S. person must aggregate gifts from foreign persons that he knows or has reason to

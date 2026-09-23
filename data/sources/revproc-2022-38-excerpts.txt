@@ -1,0 +1,25 @@
+Rev. Proc. 2022-38, 2022-45 I.R.B. 445
+Text from the local IRB corpus, issue 2022-45 (https://www.irs.gov/pub/irs-irbs/irb22-45.pdf).
+First page 445 is from the IRB cumulative finding lists. Pin pages (after the first page) come from the page markers in the extracted text, read in the header layout that reproduces the first page.
+
+--- basic_exclusion: Rev. Proc. 2022-38, sec. 3.41, 2022-45 I.R.B. 445, 453 ---
+.41 Unified Credit Against Estate Tax. For an estate of any decedent dying in calendar year 2023, the basic exclusion amount is $12,920,000 for determining the amount of the unified credit against estate tax under § 2010.
+
+--- section_2032a_cap: Rev. Proc. 2022-38, sec. 3.42, 2022-45 I.R.B. 445, 453 ---
+.42 Valuation of Qualified Real Property in Decedent's Gross Estate. For an estate of a decedent dying in calendar year 2023, if the executor elects to use the special use valuation method under § 2032A for qualified real property, the aggregate decrease in the value of qualified real property resulting from electing to use § 2032A for purposes of the estate tax cannot exceed $1,310,000.
+
+--- gift_annual_exclusion: Rev. Proc. 2022-38, sec. 3.43, 2022-45 I.R.B. 445, 453 ---
+.43 Annual Exclusion for Gifts. (1) For calendar year 2023, the first $17,000 of gifts to any person (other than gifts of future interests in property) are not included in the total amount of taxable gifts under § 2503 made during that year. (2) For calendar year 2023, the first $175,000 of gifts to a spouse who is not a citizen of the United States (other than gifts of future interests in property) are not included in the total amount of taxable gifts under §§ 2503 and 2523(i)(2) made during that year.
+
+--- form3520_foreign_gift_corp_partnership: Rev. Proc. 2022-38, sec. 3.47, 2022-45 I.R.B. 445, 453 ---
+.47 Notice of Large Gifts Received from Foreign Persons. For taxable years beginning in 2023, § 6039F authorizes the Secretary of the Treasury or her delegate to require recipients of gifts from certain foreign persons to report these gifts if the aggregate value of gifts received in the taxable year exceeds $18,567.
+
+--- expatriation_avg_tax_liability: Rev. Proc. 2022-38, sec. 3.37, 2022-45 I.R.B. 445, 453 ---
+.37 Expatriation to Avoid Tax. For calendar year 2023, under § 877A(g)(1)(A), unless an exception under § 877A(g)(1)(B) applies, an individual is a covered expatriate if the individual's "average annual net income tax" under § 877(a)(2)(A) for the five taxable years ending before the expatriation date is more than $190,000.
+
+--- expatriation_877a_exclusion: Rev. Proc. 2022-38, sec. 3.38, 2022-45 I.R.B. 445, 453 ---
+.38 Tax Responsibilities of Expatriation. For taxable years beginning in 2023, the amount that would be includible in the gross income of a covered expatriate by reason of § 877A(a)(1) is reduced (but not below zero) by $821,000 pursuant to § 877A(a)(3).
+
+--- section_6166_2pct_amount: Rev. Proc. 2022-38, sec. 3.51, 2022-45 I.R.B. 445, 454 ---
+.51 Interest on a Certain Portion of the Estate Tax Payable in Installments. For an estate of a decedent dying in calendar year 2023, the dollar amount used to determine the "2-percent portion" (for purposes of calculating interest under § 6601(j)) of the estate tax extended as provided in § 6166 is $1,750,000.
+

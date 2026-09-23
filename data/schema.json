@@ -1,0 +1,131 @@
+{
+  "figures.csv": {
+    "fields": [
+      {
+        "name": "figure_id",
+        "type": "string",
+        "description": "Stable identifier for the figure, e.g. gift_noncitizen_spouse",
+        "constraints": {
+          "required": true,
+          "enum": [
+            "basic_exclusion",
+            "expatriation_877a_exclusion",
+            "expatriation_avg_tax_liability",
+            "fbar_penalty_nonwillful_max",
+            "fbar_penalty_willful_max_floor",
+            "form3520_foreign_gift_corp_partnership",
+            "form3520_foreign_gift_individual",
+            "gift_annual_exclusion",
+            "gift_noncitizen_spouse",
+            "gst_exemption",
+            "nra_estate_credit",
+            "section_2032a_cap",
+            "section_6166_2pct_amount"
+          ]
+        }
+      },
+      {
+        "name": "figure_name",
+        "type": "string",
+        "description": "Plain-English name with the Code section"
+      },
+      {
+        "name": "year",
+        "type": "integer",
+        "description": "Year the amount applies to: calendar year of the gift, death or expatriation, or the taxable year for the Form 3520 thresholds. For FBAR penalties, the year the adjustment took effect (penalties follow the assessment date; see note). Blank for nra_estate_credit, which is one row for all years"
+      },
+      {
+        "name": "amount",
+        "type": "integer",
+        "description": "Amount in whole US dollars",
+        "constraints": {
+          "required": true,
+          "minimum": 0
+        }
+      },
+      {
+        "name": "unit",
+        "type": "string",
+        "description": "Always USD",
+        "constraints": {
+          "enum": [
+            "USD"
+          ]
+        }
+      },
+      {
+        "name": "authority",
+        "type": "string",
+        "description": "Source of the amount: Rev. Proc. number, section, IRB issue and first page, then the pin page where known; or a statute; or a Federal Register citation"
+      },
+      {
+        "name": "authority_url",
+        "type": "string",
+        "format": "uri",
+        "description": "IRS Internal Revenue Bulletin PDF, federalregister.gov document, or GovInfo statute page"
+      },
+      {
+        "name": "note",
+        "type": "string",
+        "description": "Scope, caveats, superseded amounts, and how carried-over or derived rows were determined"
+      }
+    ],
+    "primaryKey": [
+      "figure_id",
+      "year"
+    ]
+  },
+  "section7520_rates.csv": {
+    "fields": [
+      {
+        "name": "year",
+        "type": "integer",
+        "description": "Year the rate applies to"
+      },
+      {
+        "name": "month",
+        "type": "integer",
+        "description": "Month the rate applies to (1 to 12)",
+        "constraints": {
+          "minimum": 1,
+          "maximum": 12
+        }
+      },
+      {
+        "name": "rate_percent",
+        "type": "number",
+        "description": "IRC 7520 rate in percent, e.g. 5.6"
+      },
+      {
+        "name": "revenue_ruling",
+        "type": "string",
+        "description": "The monthly applicable federal rate revenue ruling that announced the rate"
+      },
+      {
+        "name": "irb_cite",
+        "type": "string",
+        "description": "Internal Revenue Bulletin issue and first page of the ruling, or a statement that it is not yet in a bulletin"
+      },
+      {
+        "name": "table",
+        "type": "string",
+        "description": "The table in the ruling (always Table 5)"
+      },
+      {
+        "name": "authority_url",
+        "type": "string",
+        "format": "uri",
+        "description": "IRB PDF, or the irs.gov irs-drop PDF for October 2026"
+      },
+      {
+        "name": "note",
+        "type": "string",
+        "description": "Set only for September 2018, where the IRB table caption misprints the ruling number"
+      }
+    ],
+    "primaryKey": [
+      "year",
+      "month"
+    ]
+  }
+}

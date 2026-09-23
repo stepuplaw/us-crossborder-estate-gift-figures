@@ -1,0 +1,13 @@
+Rev. Proc. 2018-18, 2018-10 I.R.B. 392
+Text from the local IRB corpus, issue 2018-10 (https://www.irs.gov/pub/irs-irbs/irb18-10.pdf).
+First page 392 is from the IRB cumulative finding lists. Pin pages (after the first page) come from the page markers in the extracted text, read in the footer layout that reproduces the first page.
+
+--- basic_exclusion: Rev. Proc. 2018-18, sec. 3.35, 2018-10 I.R.B. 392, 397 ---
+.35 Unified Credit Against Estate Tax. For an estate of any decedent dying in calendar year 2018, the basic exclusion amount is $11,180,000 for determining the amount of the unified credit against estate tax under § 2010.
+
+--- form3520_foreign_gift_corp_partnership: Rev. Proc. 2018-18, sec. 3.42, 2018-10 I.R.B. 392, 397 ---
+.42 Notice of Large Gifts Received from Foreign Persons. For taxable years beginning in 2018, § 6039F authorizes the Treasury Department and the Internal Revenue Service to require recipients of gifts from certain foreign persons to report these gifts if the aggregate value of gifts received in the taxable year exceeds $16,076.
+
+--- expatriation_877a_exclusion: Rev. Proc. 2018-18, sec. 3.33, 2018-10 I.R.B. 392, 397 ---
+.33 Tax Responsibilities of Expatriation. For taxable years beginning in 2018, the amount that would be includible in the gross income of a covered expatriate by reason of § 877A(a)(1) is reduced (but not below zero) by $711,000.
+

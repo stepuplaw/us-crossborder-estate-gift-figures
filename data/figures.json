@@ -1,0 +1,1452 @@
+[
+ {
+  "figure_id": "gift_annual_exclusion",
+  "figure_name": "Gift tax annual exclusion per donee (IRC 2503(b))",
+  "year": 2015,
+  "amount": 14000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2014-61, sec. 3.35, 2014-47 I.R.B. 860, 868",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb14-47.pdf",
+  "note": "Per donee, present interests only."
+ },
+ {
+  "figure_id": "gift_annual_exclusion",
+  "figure_name": "Gift tax annual exclusion per donee (IRC 2503(b))",
+  "year": 2016,
+  "amount": 14000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2015-53, sec. 3.35, 2015-44 I.R.B. 615, 623",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb15-44.pdf",
+  "note": "Per donee, present interests only."
+ },
+ {
+  "figure_id": "gift_annual_exclusion",
+  "figure_name": "Gift tax annual exclusion per donee (IRC 2503(b))",
+  "year": 2017,
+  "amount": 14000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2016-55, sec. 3.37, 2016-45 I.R.B. 707, 714",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb16-45.pdf",
+  "note": "Per donee, present interests only."
+ },
+ {
+  "figure_id": "gift_annual_exclusion",
+  "figure_name": "Gift tax annual exclusion per donee (IRC 2503(b))",
+  "year": 2018,
+  "amount": 15000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2017-58, sec. 3.37, 2017-45 I.R.B. 489, 495",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb17-45.pdf",
+  "note": "Per donee, present interests only. Rev. Proc. 2017-58 amount; not among the items Rev. Proc. 2018-18 modified."
+ },
+ {
+  "figure_id": "gift_annual_exclusion",
+  "figure_name": "Gift tax annual exclusion per donee (IRC 2503(b))",
+  "year": 2019,
+  "amount": 15000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2018-57, sec. 3.43, 2018-49 I.R.B. 827, 835",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb18-49.pdf",
+  "note": "Per donee, present interests only."
+ },
+ {
+  "figure_id": "gift_annual_exclusion",
+  "figure_name": "Gift tax annual exclusion per donee (IRC 2503(b))",
+  "year": 2020,
+  "amount": 15000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2019-44, sec. 3.43, 2019-47 I.R.B. 1093, 1100",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb19-47.pdf",
+  "note": "Per donee, present interests only."
+ },
+ {
+  "figure_id": "gift_annual_exclusion",
+  "figure_name": "Gift tax annual exclusion per donee (IRC 2503(b))",
+  "year": 2021,
+  "amount": 15000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2020-45, sec. 3.43, 2020-46 I.R.B. 1016, 1024",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb20-46.pdf",
+  "note": "Per donee, present interests only."
+ },
+ {
+  "figure_id": "gift_annual_exclusion",
+  "figure_name": "Gift tax annual exclusion per donee (IRC 2503(b))",
+  "year": 2022,
+  "amount": 16000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2021-45, sec. 3.43, 2021-48 I.R.B. 764, 772",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb21-48.pdf",
+  "note": "Per donee, present interests only."
+ },
+ {
+  "figure_id": "gift_annual_exclusion",
+  "figure_name": "Gift tax annual exclusion per donee (IRC 2503(b))",
+  "year": 2023,
+  "amount": 17000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2022-38, sec. 3.43, 2022-45 I.R.B. 445, 453",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb22-45.pdf",
+  "note": "Per donee, present interests only."
+ },
+ {
+  "figure_id": "gift_annual_exclusion",
+  "figure_name": "Gift tax annual exclusion per donee (IRC 2503(b))",
+  "year": 2024,
+  "amount": 18000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2023-34, sec. 3.43, 2023-48 I.R.B. 1287, 1295",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb23-48.pdf",
+  "note": "Per donee, present interests only."
+ },
+ {
+  "figure_id": "gift_annual_exclusion",
+  "figure_name": "Gift tax annual exclusion per donee (IRC 2503(b))",
+  "year": 2025,
+  "amount": 19000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2024-40, sec. 2.43, 2024-45 I.R.B. 1100, 1107",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb24-45.pdf",
+  "note": "Per donee, present interests only."
+ },
+ {
+  "figure_id": "gift_annual_exclusion",
+  "figure_name": "Gift tax annual exclusion per donee (IRC 2503(b))",
+  "year": 2026,
+  "amount": 19000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2025-32, sec. 4.42, 2025-45 I.R.B. 695, 704",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb25-45.pdf",
+  "note": "Per donee, present interests only. Sec. 4.42(3) also sets the IRC 2801 annual exception for covered gifts and bequests from a covered expatriate at $19,000."
+ },
+ {
+  "figure_id": "gift_noncitizen_spouse",
+  "figure_name": "Annual exclusion for gifts to a non-citizen spouse (IRC 2523(i)(2))",
+  "year": 2015,
+  "amount": 147000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2014-61, sec. 3.35, 2014-47 I.R.B. 860, 868",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb14-47.pdf",
+  "note": "Replaces the unlimited marital deduction for gifts to a spouse who is not a US citizen; present interests only."
+ },
+ {
+  "figure_id": "gift_noncitizen_spouse",
+  "figure_name": "Annual exclusion for gifts to a non-citizen spouse (IRC 2523(i)(2))",
+  "year": 2016,
+  "amount": 148000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2015-53, sec. 3.35, 2015-44 I.R.B. 615, 623",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb15-44.pdf",
+  "note": "Replaces the unlimited marital deduction for gifts to a spouse who is not a US citizen; present interests only."
+ },
+ {
+  "figure_id": "gift_noncitizen_spouse",
+  "figure_name": "Annual exclusion for gifts to a non-citizen spouse (IRC 2523(i)(2))",
+  "year": 2017,
+  "amount": 149000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2016-55, sec. 3.37, 2016-45 I.R.B. 707, 714",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb16-45.pdf",
+  "note": "Replaces the unlimited marital deduction for gifts to a spouse who is not a US citizen; present interests only."
+ },
+ {
+  "figure_id": "gift_noncitizen_spouse",
+  "figure_name": "Annual exclusion for gifts to a non-citizen spouse (IRC 2523(i)(2))",
+  "year": 2018,
+  "amount": 152000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2017-58, sec. 3.37, 2017-45 I.R.B. 489, 495",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb17-45.pdf",
+  "note": "Replaces the unlimited marital deduction for gifts to a spouse who is not a US citizen; present interests only. Rev. Proc. 2017-58 amount; not among the items Rev. Proc. 2018-18 modified."
+ },
+ {
+  "figure_id": "gift_noncitizen_spouse",
+  "figure_name": "Annual exclusion for gifts to a non-citizen spouse (IRC 2523(i)(2))",
+  "year": 2019,
+  "amount": 155000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2018-57, sec. 3.43, 2018-49 I.R.B. 827, 835",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb18-49.pdf",
+  "note": "Replaces the unlimited marital deduction for gifts to a spouse who is not a US citizen; present interests only."
+ },
+ {
+  "figure_id": "gift_noncitizen_spouse",
+  "figure_name": "Annual exclusion for gifts to a non-citizen spouse (IRC 2523(i)(2))",
+  "year": 2020,
+  "amount": 157000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2019-44, sec. 3.43, 2019-47 I.R.B. 1093, 1100",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb19-47.pdf",
+  "note": "Replaces the unlimited marital deduction for gifts to a spouse who is not a US citizen; present interests only."
+ },
+ {
+  "figure_id": "gift_noncitizen_spouse",
+  "figure_name": "Annual exclusion for gifts to a non-citizen spouse (IRC 2523(i)(2))",
+  "year": 2021,
+  "amount": 159000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2020-45, sec. 3.43, 2020-46 I.R.B. 1016, 1024",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb20-46.pdf",
+  "note": "Replaces the unlimited marital deduction for gifts to a spouse who is not a US citizen; present interests only."
+ },
+ {
+  "figure_id": "gift_noncitizen_spouse",
+  "figure_name": "Annual exclusion for gifts to a non-citizen spouse (IRC 2523(i)(2))",
+  "year": 2022,
+  "amount": 164000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2021-45, sec. 3.43, 2021-48 I.R.B. 764, 772",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb21-48.pdf",
+  "note": "Replaces the unlimited marital deduction for gifts to a spouse who is not a US citizen; present interests only."
+ },
+ {
+  "figure_id": "gift_noncitizen_spouse",
+  "figure_name": "Annual exclusion for gifts to a non-citizen spouse (IRC 2523(i)(2))",
+  "year": 2023,
+  "amount": 175000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2022-38, sec. 3.43, 2022-45 I.R.B. 445, 453",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb22-45.pdf",
+  "note": "Replaces the unlimited marital deduction for gifts to a spouse who is not a US citizen; present interests only."
+ },
+ {
+  "figure_id": "gift_noncitizen_spouse",
+  "figure_name": "Annual exclusion for gifts to a non-citizen spouse (IRC 2523(i)(2))",
+  "year": 2024,
+  "amount": 185000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2023-34, sec. 3.43, 2023-48 I.R.B. 1287, 1295",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb23-48.pdf",
+  "note": "Replaces the unlimited marital deduction for gifts to a spouse who is not a US citizen; present interests only."
+ },
+ {
+  "figure_id": "gift_noncitizen_spouse",
+  "figure_name": "Annual exclusion for gifts to a non-citizen spouse (IRC 2523(i)(2))",
+  "year": 2025,
+  "amount": 190000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2024-40, sec. 2.43, 2024-45 I.R.B. 1100, 1107",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb24-45.pdf",
+  "note": "Replaces the unlimited marital deduction for gifts to a spouse who is not a US citizen; present interests only."
+ },
+ {
+  "figure_id": "gift_noncitizen_spouse",
+  "figure_name": "Annual exclusion for gifts to a non-citizen spouse (IRC 2523(i)(2))",
+  "year": 2026,
+  "amount": 194000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2025-32, sec. 4.42, 2025-45 I.R.B. 695, 704",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb25-45.pdf",
+  "note": "Replaces the unlimited marital deduction for gifts to a spouse who is not a US citizen; present interests only."
+ },
+ {
+  "figure_id": "basic_exclusion",
+  "figure_name": "Estate and gift tax basic exclusion amount (IRC 2010(c)(3))",
+  "year": 2015,
+  "amount": 5430000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2014-61, sec. 3.33, 2014-47 I.R.B. 860, 867",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb14-47.pdf",
+  "note": ""
+ },
+ {
+  "figure_id": "basic_exclusion",
+  "figure_name": "Estate and gift tax basic exclusion amount (IRC 2010(c)(3))",
+  "year": 2016,
+  "amount": 5450000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2015-53, sec. 3.33, 2015-44 I.R.B. 615, 623",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb15-44.pdf",
+  "note": ""
+ },
+ {
+  "figure_id": "basic_exclusion",
+  "figure_name": "Estate and gift tax basic exclusion amount (IRC 2010(c)(3))",
+  "year": 2017,
+  "amount": 5490000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2016-55, sec. 3.35, 2016-45 I.R.B. 707, 714",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb16-45.pdf",
+  "note": ""
+ },
+ {
+  "figure_id": "basic_exclusion",
+  "figure_name": "Estate and gift tax basic exclusion amount (IRC 2010(c)(3))",
+  "year": 2018,
+  "amount": 11180000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2018-18, sec. 3.35, 2018-10 I.R.B. 392, 397",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb18-10.pdf",
+  "note": "Rev. Proc. 2018-18 superseded the $5,600,000 in Rev. Proc. 2017-58, sec. 3.35, 2017-45 I.R.B. 489, after Pub. L. 115-97 (TCJA). Includes the Pub. L. 115-97 doubling (base $10,000,000) that ran 2018 to 2025."
+ },
+ {
+  "figure_id": "basic_exclusion",
+  "figure_name": "Estate and gift tax basic exclusion amount (IRC 2010(c)(3))",
+  "year": 2019,
+  "amount": 11400000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2018-57, sec. 3.41, 2018-49 I.R.B. 827, 835",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb18-49.pdf",
+  "note": "Includes the Pub. L. 115-97 doubling (base $10,000,000) that ran 2018 to 2025."
+ },
+ {
+  "figure_id": "basic_exclusion",
+  "figure_name": "Estate and gift tax basic exclusion amount (IRC 2010(c)(3))",
+  "year": 2020,
+  "amount": 11580000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2019-44, sec. 3.41, 2019-47 I.R.B. 1093, 1100",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb19-47.pdf",
+  "note": "Includes the Pub. L. 115-97 doubling (base $10,000,000) that ran 2018 to 2025."
+ },
+ {
+  "figure_id": "basic_exclusion",
+  "figure_name": "Estate and gift tax basic exclusion amount (IRC 2010(c)(3))",
+  "year": 2021,
+  "amount": 11700000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2020-45, sec. 3.41, 2020-46 I.R.B. 1016, 1024",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb20-46.pdf",
+  "note": "Includes the Pub. L. 115-97 doubling (base $10,000,000) that ran 2018 to 2025."
+ },
+ {
+  "figure_id": "basic_exclusion",
+  "figure_name": "Estate and gift tax basic exclusion amount (IRC 2010(c)(3))",
+  "year": 2022,
+  "amount": 12060000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2021-45, sec. 3.41, 2021-48 I.R.B. 764, 772",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb21-48.pdf",
+  "note": "Includes the Pub. L. 115-97 doubling (base $10,000,000) that ran 2018 to 2025."
+ },
+ {
+  "figure_id": "basic_exclusion",
+  "figure_name": "Estate and gift tax basic exclusion amount (IRC 2010(c)(3))",
+  "year": 2023,
+  "amount": 12920000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2022-38, sec. 3.41, 2022-45 I.R.B. 445, 453",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb22-45.pdf",
+  "note": "Includes the Pub. L. 115-97 doubling (base $10,000,000) that ran 2018 to 2025."
+ },
+ {
+  "figure_id": "basic_exclusion",
+  "figure_name": "Estate and gift tax basic exclusion amount (IRC 2010(c)(3))",
+  "year": 2024,
+  "amount": 13610000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2023-34, sec. 3.41, 2023-48 I.R.B. 1287, 1295",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb23-48.pdf",
+  "note": "Includes the Pub. L. 115-97 doubling (base $10,000,000) that ran 2018 to 2025."
+ },
+ {
+  "figure_id": "basic_exclusion",
+  "figure_name": "Estate and gift tax basic exclusion amount (IRC 2010(c)(3))",
+  "year": 2025,
+  "amount": 13990000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2024-40, sec. 2.41, 2024-45 I.R.B. 1100, 1107",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb24-45.pdf",
+  "note": "Includes the Pub. L. 115-97 doubling (base $10,000,000) that ran 2018 to 2025."
+ },
+ {
+  "figure_id": "basic_exclusion",
+  "figure_name": "Estate and gift tax basic exclusion amount (IRC 2010(c)(3))",
+  "year": 2026,
+  "amount": 15000000,
+  "unit": "USD",
+  "authority": "IRC 2010(c)(3)(A) as amended by Pub. L. 119-21, sec. 70106; restated in Rev. Proc. 2025-32, sec. 2.14, 2025-45 I.R.B. 695, 697",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb25-45.pdf",
+  "note": "Set by statute for 2026 (not an inflation adjustment); indexed again from 2027. Rev. Proc. 2025-32 states it in sec. 2.14 (Changes), not in the sec. 4 list."
+ },
+ {
+  "figure_id": "gst_exemption",
+  "figure_name": "Generation-skipping transfer tax exemption (IRC 2631(c))",
+  "year": 2015,
+  "amount": 5430000,
+  "unit": "USD",
+  "authority": "IRC 2631(c) (GST exemption equals the basic exclusion amount); amount from Rev. Proc. 2014-61, sec. 3.33, 2014-47 I.R.B. 860, 867",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb14-47.pdf",
+  "note": "The Rev. Proc. does not list the GST exemption separately for this year; IRC 2631(c) sets it equal to the basic exclusion amount."
+ },
+ {
+  "figure_id": "gst_exemption",
+  "figure_name": "Generation-skipping transfer tax exemption (IRC 2631(c))",
+  "year": 2016,
+  "amount": 5450000,
+  "unit": "USD",
+  "authority": "IRC 2631(c) (GST exemption equals the basic exclusion amount); amount from Rev. Proc. 2015-53, sec. 3.33, 2015-44 I.R.B. 615, 623",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb15-44.pdf",
+  "note": "The Rev. Proc. does not list the GST exemption separately for this year; IRC 2631(c) sets it equal to the basic exclusion amount."
+ },
+ {
+  "figure_id": "gst_exemption",
+  "figure_name": "Generation-skipping transfer tax exemption (IRC 2631(c))",
+  "year": 2017,
+  "amount": 5490000,
+  "unit": "USD",
+  "authority": "IRC 2631(c) (GST exemption equals the basic exclusion amount); amount from Rev. Proc. 2016-55, sec. 3.35, 2016-45 I.R.B. 707, 714",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb16-45.pdf",
+  "note": "The Rev. Proc. does not list the GST exemption separately for this year; IRC 2631(c) sets it equal to the basic exclusion amount."
+ },
+ {
+  "figure_id": "gst_exemption",
+  "figure_name": "Generation-skipping transfer tax exemption (IRC 2631(c))",
+  "year": 2018,
+  "amount": 11180000,
+  "unit": "USD",
+  "authority": "IRC 2631(c) (GST exemption equals the basic exclusion amount); amount from Rev. Proc. 2018-18, sec. 3.35, 2018-10 I.R.B. 392, 397",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb18-10.pdf",
+  "note": "The Rev. Proc. does not list the GST exemption separately for this year; IRC 2631(c) sets it equal to the basic exclusion amount."
+ },
+ {
+  "figure_id": "gst_exemption",
+  "figure_name": "Generation-skipping transfer tax exemption (IRC 2631(c))",
+  "year": 2019,
+  "amount": 11400000,
+  "unit": "USD",
+  "authority": "IRC 2631(c) (GST exemption equals the basic exclusion amount); amount from Rev. Proc. 2018-57, sec. 3.41, 2018-49 I.R.B. 827, 835",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb18-49.pdf",
+  "note": "The Rev. Proc. does not list the GST exemption separately for this year; IRC 2631(c) sets it equal to the basic exclusion amount."
+ },
+ {
+  "figure_id": "gst_exemption",
+  "figure_name": "Generation-skipping transfer tax exemption (IRC 2631(c))",
+  "year": 2020,
+  "amount": 11580000,
+  "unit": "USD",
+  "authority": "IRC 2631(c) (GST exemption equals the basic exclusion amount); amount from Rev. Proc. 2019-44, sec. 3.41, 2019-47 I.R.B. 1093, 1100",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb19-47.pdf",
+  "note": "The Rev. Proc. does not list the GST exemption separately for this year; IRC 2631(c) sets it equal to the basic exclusion amount."
+ },
+ {
+  "figure_id": "gst_exemption",
+  "figure_name": "Generation-skipping transfer tax exemption (IRC 2631(c))",
+  "year": 2021,
+  "amount": 11700000,
+  "unit": "USD",
+  "authority": "IRC 2631(c) (GST exemption equals the basic exclusion amount); amount from Rev. Proc. 2020-45, sec. 3.41, 2020-46 I.R.B. 1016, 1024",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb20-46.pdf",
+  "note": "The Rev. Proc. does not list the GST exemption separately for this year; IRC 2631(c) sets it equal to the basic exclusion amount."
+ },
+ {
+  "figure_id": "gst_exemption",
+  "figure_name": "Generation-skipping transfer tax exemption (IRC 2631(c))",
+  "year": 2022,
+  "amount": 12060000,
+  "unit": "USD",
+  "authority": "IRC 2631(c) (GST exemption equals the basic exclusion amount); amount from Rev. Proc. 2021-45, sec. 3.41, 2021-48 I.R.B. 764, 772",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb21-48.pdf",
+  "note": "The Rev. Proc. does not list the GST exemption separately for this year; IRC 2631(c) sets it equal to the basic exclusion amount."
+ },
+ {
+  "figure_id": "gst_exemption",
+  "figure_name": "Generation-skipping transfer tax exemption (IRC 2631(c))",
+  "year": 2023,
+  "amount": 12920000,
+  "unit": "USD",
+  "authority": "IRC 2631(c) (GST exemption equals the basic exclusion amount); amount from Rev. Proc. 2022-38, sec. 3.41, 2022-45 I.R.B. 445, 453",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb22-45.pdf",
+  "note": "The Rev. Proc. does not list the GST exemption separately for this year; IRC 2631(c) sets it equal to the basic exclusion amount."
+ },
+ {
+  "figure_id": "gst_exemption",
+  "figure_name": "Generation-skipping transfer tax exemption (IRC 2631(c))",
+  "year": 2024,
+  "amount": 13610000,
+  "unit": "USD",
+  "authority": "IRC 2631(c) (GST exemption equals the basic exclusion amount); amount from Rev. Proc. 2023-34, sec. 3.41, 2023-48 I.R.B. 1287, 1295",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb23-48.pdf",
+  "note": "The Rev. Proc. does not list the GST exemption separately for this year; IRC 2631(c) sets it equal to the basic exclusion amount."
+ },
+ {
+  "figure_id": "gst_exemption",
+  "figure_name": "Generation-skipping transfer tax exemption (IRC 2631(c))",
+  "year": 2025,
+  "amount": 13990000,
+  "unit": "USD",
+  "authority": "IRC 2631(c) (GST exemption equals the basic exclusion amount); amount from Rev. Proc. 2024-40, sec. 2.41, 2024-45 I.R.B. 1100, 1107",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb24-45.pdf",
+  "note": "The Rev. Proc. does not list the GST exemption separately for this year; IRC 2631(c) sets it equal to the basic exclusion amount."
+ },
+ {
+  "figure_id": "gst_exemption",
+  "figure_name": "Generation-skipping transfer tax exemption (IRC 2631(c))",
+  "year": 2026,
+  "amount": 15000000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2025-32, sec. 2.14, 2025-45 I.R.B. 695, 697",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb25-45.pdf",
+  "note": "Rev. Proc. 2025-32 sec. 2.14 states the 2026 GST exemption directly: equal to the $15,000,000 basic exclusion amount under IRC 2631(c)."
+ },
+ {
+  "figure_id": "section_2032a_cap",
+  "figure_name": "Special use valuation: maximum decrease in value of qualified real property (IRC 2032A(a)(3))",
+  "year": 2015,
+  "amount": 1100000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2014-61, sec. 3.34, 2014-47 I.R.B. 860, 867",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb14-47.pdf",
+  "note": "Cap on the total reduction from fair market value when the executor elects special use valuation."
+ },
+ {
+  "figure_id": "section_2032a_cap",
+  "figure_name": "Special use valuation: maximum decrease in value of qualified real property (IRC 2032A(a)(3))",
+  "year": 2016,
+  "amount": 1110000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2015-53, sec. 3.34, 2015-44 I.R.B. 615, 623",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb15-44.pdf",
+  "note": "Cap on the total reduction from fair market value when the executor elects special use valuation."
+ },
+ {
+  "figure_id": "section_2032a_cap",
+  "figure_name": "Special use valuation: maximum decrease in value of qualified real property (IRC 2032A(a)(3))",
+  "year": 2017,
+  "amount": 1120000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2016-55, sec. 3.36, 2016-45 I.R.B. 707, 714",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb16-45.pdf",
+  "note": "Cap on the total reduction from fair market value when the executor elects special use valuation."
+ },
+ {
+  "figure_id": "section_2032a_cap",
+  "figure_name": "Special use valuation: maximum decrease in value of qualified real property (IRC 2032A(a)(3))",
+  "year": 2018,
+  "amount": 1140000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2017-58, sec. 3.36, 2017-45 I.R.B. 489, 495",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb17-45.pdf",
+  "note": "Cap on the total reduction from fair market value when the executor elects special use valuation. Rev. Proc. 2017-58 amount; not among the items Rev. Proc. 2018-18 modified."
+ },
+ {
+  "figure_id": "section_2032a_cap",
+  "figure_name": "Special use valuation: maximum decrease in value of qualified real property (IRC 2032A(a)(3))",
+  "year": 2019,
+  "amount": 1160000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2018-57, sec. 3.42, 2018-49 I.R.B. 827, 835",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb18-49.pdf",
+  "note": "Cap on the total reduction from fair market value when the executor elects special use valuation."
+ },
+ {
+  "figure_id": "section_2032a_cap",
+  "figure_name": "Special use valuation: maximum decrease in value of qualified real property (IRC 2032A(a)(3))",
+  "year": 2020,
+  "amount": 1180000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2019-44, sec. 3.42, 2019-47 I.R.B. 1093, 1100",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb19-47.pdf",
+  "note": "Cap on the total reduction from fair market value when the executor elects special use valuation."
+ },
+ {
+  "figure_id": "section_2032a_cap",
+  "figure_name": "Special use valuation: maximum decrease in value of qualified real property (IRC 2032A(a)(3))",
+  "year": 2021,
+  "amount": 1190000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2020-45, sec. 3.42, 2020-46 I.R.B. 1016, 1024",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb20-46.pdf",
+  "note": "Cap on the total reduction from fair market value when the executor elects special use valuation."
+ },
+ {
+  "figure_id": "section_2032a_cap",
+  "figure_name": "Special use valuation: maximum decrease in value of qualified real property (IRC 2032A(a)(3))",
+  "year": 2022,
+  "amount": 1230000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2021-45, sec. 3.42, 2021-48 I.R.B. 764, 772",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb21-48.pdf",
+  "note": "Cap on the total reduction from fair market value when the executor elects special use valuation."
+ },
+ {
+  "figure_id": "section_2032a_cap",
+  "figure_name": "Special use valuation: maximum decrease in value of qualified real property (IRC 2032A(a)(3))",
+  "year": 2023,
+  "amount": 1310000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2022-38, sec. 3.42, 2022-45 I.R.B. 445, 453",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb22-45.pdf",
+  "note": "Cap on the total reduction from fair market value when the executor elects special use valuation."
+ },
+ {
+  "figure_id": "section_2032a_cap",
+  "figure_name": "Special use valuation: maximum decrease in value of qualified real property (IRC 2032A(a)(3))",
+  "year": 2024,
+  "amount": 1390000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2023-34, sec. 3.42, 2023-48 I.R.B. 1287, 1295",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb23-48.pdf",
+  "note": "Cap on the total reduction from fair market value when the executor elects special use valuation."
+ },
+ {
+  "figure_id": "section_2032a_cap",
+  "figure_name": "Special use valuation: maximum decrease in value of qualified real property (IRC 2032A(a)(3))",
+  "year": 2025,
+  "amount": 1420000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2024-40, sec. 2.42, 2024-45 I.R.B. 1100, 1107",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb24-45.pdf",
+  "note": "Cap on the total reduction from fair market value when the executor elects special use valuation."
+ },
+ {
+  "figure_id": "section_2032a_cap",
+  "figure_name": "Special use valuation: maximum decrease in value of qualified real property (IRC 2032A(a)(3))",
+  "year": 2026,
+  "amount": 1460000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2025-32, sec. 4.41, 2025-45 I.R.B. 695, 704",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb25-45.pdf",
+  "note": "Cap on the total reduction from fair market value when the executor elects special use valuation."
+ },
+ {
+  "figure_id": "section_6166_2pct_amount",
+  "figure_name": "Estate tax deferral: dollar amount used to figure the 2-percent portion (IRC 6601(j), 6166)",
+  "year": 2015,
+  "amount": 1470000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2014-61, sec. 3.42, 2014-47 I.R.B. 860, 868",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb14-47.pdf",
+  "note": "This is the indexed form of the $1,000,000 in IRC 6601(j)(2)(A). The 2-percent portion is the lesser of the tentative tax on this amount plus the applicable exclusion amount, less the applicable credit, or the deferred tax; interest on the rest runs at 45% of the underpayment rate (IRC 6601(j)(1)(B))."
+ },
+ {
+  "figure_id": "section_6166_2pct_amount",
+  "figure_name": "Estate tax deferral: dollar amount used to figure the 2-percent portion (IRC 6601(j), 6166)",
+  "year": 2016,
+  "amount": 1480000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2015-53, sec. 3.42, 2015-44 I.R.B. 615, 624",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb15-44.pdf",
+  "note": "This is the indexed form of the $1,000,000 in IRC 6601(j)(2)(A). The 2-percent portion is the lesser of the tentative tax on this amount plus the applicable exclusion amount, less the applicable credit, or the deferred tax; interest on the rest runs at 45% of the underpayment rate (IRC 6601(j)(1)(B))."
+ },
+ {
+  "figure_id": "section_6166_2pct_amount",
+  "figure_name": "Estate tax deferral: dollar amount used to figure the 2-percent portion (IRC 6601(j), 6166)",
+  "year": 2017,
+  "amount": 1490000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2016-55, sec. 3.45, 2016-45 I.R.B. 707, 714",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb16-45.pdf",
+  "note": "This is the indexed form of the $1,000,000 in IRC 6601(j)(2)(A). The 2-percent portion is the lesser of the tentative tax on this amount plus the applicable exclusion amount, less the applicable credit, or the deferred tax; interest on the rest runs at 45% of the underpayment rate (IRC 6601(j)(1)(B))."
+ },
+ {
+  "figure_id": "section_6166_2pct_amount",
+  "figure_name": "Estate tax deferral: dollar amount used to figure the 2-percent portion (IRC 6601(j), 6166)",
+  "year": 2018,
+  "amount": 1520000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2017-58, sec. 3.45, 2017-45 I.R.B. 489, 496",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb17-45.pdf",
+  "note": "This is the indexed form of the $1,000,000 in IRC 6601(j)(2)(A). The 2-percent portion is the lesser of the tentative tax on this amount plus the applicable exclusion amount, less the applicable credit, or the deferred tax; interest on the rest runs at 45% of the underpayment rate (IRC 6601(j)(1)(B)). Rev. Proc. 2017-58 amount; not among the items Rev. Proc. 2018-18 modified."
+ },
+ {
+  "figure_id": "section_6166_2pct_amount",
+  "figure_name": "Estate tax deferral: dollar amount used to figure the 2-percent portion (IRC 6601(j), 6166)",
+  "year": 2019,
+  "amount": 1550000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2018-57, sec. 3.51, 2018-49 I.R.B. 827, 835",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb18-49.pdf",
+  "note": "This is the indexed form of the $1,000,000 in IRC 6601(j)(2)(A). The 2-percent portion is the lesser of the tentative tax on this amount plus the applicable exclusion amount, less the applicable credit, or the deferred tax; interest on the rest runs at 45% of the underpayment rate (IRC 6601(j)(1)(B))."
+ },
+ {
+  "figure_id": "section_6166_2pct_amount",
+  "figure_name": "Estate tax deferral: dollar amount used to figure the 2-percent portion (IRC 6601(j), 6166)",
+  "year": 2020,
+  "amount": 1570000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2019-44, sec. 3.51, 2019-47 I.R.B. 1093, 1100",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb19-47.pdf",
+  "note": "This is the indexed form of the $1,000,000 in IRC 6601(j)(2)(A). The 2-percent portion is the lesser of the tentative tax on this amount plus the applicable exclusion amount, less the applicable credit, or the deferred tax; interest on the rest runs at 45% of the underpayment rate (IRC 6601(j)(1)(B))."
+ },
+ {
+  "figure_id": "section_6166_2pct_amount",
+  "figure_name": "Estate tax deferral: dollar amount used to figure the 2-percent portion (IRC 6601(j), 6166)",
+  "year": 2021,
+  "amount": 1590000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2020-45, sec. 3.51, 2020-46 I.R.B. 1016, 1024",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb20-46.pdf",
+  "note": "This is the indexed form of the $1,000,000 in IRC 6601(j)(2)(A). The 2-percent portion is the lesser of the tentative tax on this amount plus the applicable exclusion amount, less the applicable credit, or the deferred tax; interest on the rest runs at 45% of the underpayment rate (IRC 6601(j)(1)(B))."
+ },
+ {
+  "figure_id": "section_6166_2pct_amount",
+  "figure_name": "Estate tax deferral: dollar amount used to figure the 2-percent portion (IRC 6601(j), 6166)",
+  "year": 2022,
+  "amount": 1640000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2021-45, sec. 3.51, 2021-48 I.R.B. 764, 773",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb21-48.pdf",
+  "note": "This is the indexed form of the $1,000,000 in IRC 6601(j)(2)(A). The 2-percent portion is the lesser of the tentative tax on this amount plus the applicable exclusion amount, less the applicable credit, or the deferred tax; interest on the rest runs at 45% of the underpayment rate (IRC 6601(j)(1)(B))."
+ },
+ {
+  "figure_id": "section_6166_2pct_amount",
+  "figure_name": "Estate tax deferral: dollar amount used to figure the 2-percent portion (IRC 6601(j), 6166)",
+  "year": 2023,
+  "amount": 1750000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2022-38, sec. 3.51, 2022-45 I.R.B. 445, 454",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb22-45.pdf",
+  "note": "This is the indexed form of the $1,000,000 in IRC 6601(j)(2)(A). The 2-percent portion is the lesser of the tentative tax on this amount plus the applicable exclusion amount, less the applicable credit, or the deferred tax; interest on the rest runs at 45% of the underpayment rate (IRC 6601(j)(1)(B))."
+ },
+ {
+  "figure_id": "section_6166_2pct_amount",
+  "figure_name": "Estate tax deferral: dollar amount used to figure the 2-percent portion (IRC 6601(j), 6166)",
+  "year": 2024,
+  "amount": 1850000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2023-34, sec. 3.52, 2023-48 I.R.B. 1287, 1296",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb23-48.pdf",
+  "note": "This is the indexed form of the $1,000,000 in IRC 6601(j)(2)(A). The 2-percent portion is the lesser of the tentative tax on this amount plus the applicable exclusion amount, less the applicable credit, or the deferred tax; interest on the rest runs at 45% of the underpayment rate (IRC 6601(j)(1)(B))."
+ },
+ {
+  "figure_id": "section_6166_2pct_amount",
+  "figure_name": "Estate tax deferral: dollar amount used to figure the 2-percent portion (IRC 6601(j), 6166)",
+  "year": 2025,
+  "amount": 1900000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2024-40, sec. 2.52, 2024-45 I.R.B. 1100, 1107",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb24-45.pdf",
+  "note": "This is the indexed form of the $1,000,000 in IRC 6601(j)(2)(A). The 2-percent portion is the lesser of the tentative tax on this amount plus the applicable exclusion amount, less the applicable credit, or the deferred tax; interest on the rest runs at 45% of the underpayment rate (IRC 6601(j)(1)(B))."
+ },
+ {
+  "figure_id": "section_6166_2pct_amount",
+  "figure_name": "Estate tax deferral: dollar amount used to figure the 2-percent portion (IRC 6601(j), 6166)",
+  "year": 2026,
+  "amount": 1940000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2025-32, sec. 4.51, 2025-45 I.R.B. 695, 704",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb25-45.pdf",
+  "note": "This is the indexed form of the $1,000,000 in IRC 6601(j)(2)(A). The 2-percent portion is the lesser of the tentative tax on this amount plus the applicable exclusion amount, less the applicable credit, or the deferred tax; interest on the rest runs at 45% of the underpayment rate (IRC 6601(j)(1)(B))."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_corp_partnership",
+  "figure_name": "Form 3520 reporting threshold: gifts from foreign corporations and partnerships (IRC 6039F(a), (d))",
+  "year": 2015,
+  "amount": 15601,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2014-61, sec. 3.39, 2014-47 I.R.B. 860, 868",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb14-47.pdf",
+  "note": "Report on Form 3520 when aggregate purported gifts from foreign corporations and foreign partnerships in the taxable year exceed this amount (indexed form of the $10,000 in IRC 6039F(a))."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_corp_partnership",
+  "figure_name": "Form 3520 reporting threshold: gifts from foreign corporations and partnerships (IRC 6039F(a), (d))",
+  "year": 2016,
+  "amount": 15671,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2015-53, sec. 3.39, 2015-44 I.R.B. 615, 624",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb15-44.pdf",
+  "note": "Report on Form 3520 when aggregate purported gifts from foreign corporations and foreign partnerships in the taxable year exceed this amount (indexed form of the $10,000 in IRC 6039F(a))."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_corp_partnership",
+  "figure_name": "Form 3520 reporting threshold: gifts from foreign corporations and partnerships (IRC 6039F(a), (d))",
+  "year": 2017,
+  "amount": 15797,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2016-55, sec. 3.42, 2016-45 I.R.B. 707, 714",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb16-45.pdf",
+  "note": "Report on Form 3520 when aggregate purported gifts from foreign corporations and foreign partnerships in the taxable year exceed this amount (indexed form of the $10,000 in IRC 6039F(a))."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_corp_partnership",
+  "figure_name": "Form 3520 reporting threshold: gifts from foreign corporations and partnerships (IRC 6039F(a), (d))",
+  "year": 2018,
+  "amount": 16076,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2018-18, sec. 3.42, 2018-10 I.R.B. 392, 397",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb18-10.pdf",
+  "note": "Report on Form 3520 when aggregate purported gifts from foreign corporations and foreign partnerships in the taxable year exceed this amount (indexed form of the $10,000 in IRC 6039F(a)). Rev. Proc. 2018-18 superseded the $16,111 in Rev. Proc. 2017-58, sec. 3.42, 2017-45 I.R.B. 489, after Pub. L. 115-97 (TCJA)."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_corp_partnership",
+  "figure_name": "Form 3520 reporting threshold: gifts from foreign corporations and partnerships (IRC 6039F(a), (d))",
+  "year": 2019,
+  "amount": 16388,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2018-57, sec. 3.47, 2018-49 I.R.B. 827, 835",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb18-49.pdf",
+  "note": "Report on Form 3520 when aggregate purported gifts from foreign corporations and foreign partnerships in the taxable year exceed this amount (indexed form of the $10,000 in IRC 6039F(a))."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_corp_partnership",
+  "figure_name": "Form 3520 reporting threshold: gifts from foreign corporations and partnerships (IRC 6039F(a), (d))",
+  "year": 2020,
+  "amount": 16649,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2019-44, sec. 3.47, 2019-47 I.R.B. 1093, 1100",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb19-47.pdf",
+  "note": "Report on Form 3520 when aggregate purported gifts from foreign corporations and foreign partnerships in the taxable year exceed this amount (indexed form of the $10,000 in IRC 6039F(a))."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_corp_partnership",
+  "figure_name": "Form 3520 reporting threshold: gifts from foreign corporations and partnerships (IRC 6039F(a), (d))",
+  "year": 2021,
+  "amount": 16815,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2020-45, sec. 3.47, 2020-46 I.R.B. 1016, 1024",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb20-46.pdf",
+  "note": "Report on Form 3520 when aggregate purported gifts from foreign corporations and foreign partnerships in the taxable year exceed this amount (indexed form of the $10,000 in IRC 6039F(a))."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_corp_partnership",
+  "figure_name": "Form 3520 reporting threshold: gifts from foreign corporations and partnerships (IRC 6039F(a), (d))",
+  "year": 2022,
+  "amount": 17339,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2021-45, sec. 3.47, 2021-48 I.R.B. 764, 773",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb21-48.pdf",
+  "note": "Report on Form 3520 when aggregate purported gifts from foreign corporations and foreign partnerships in the taxable year exceed this amount (indexed form of the $10,000 in IRC 6039F(a))."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_corp_partnership",
+  "figure_name": "Form 3520 reporting threshold: gifts from foreign corporations and partnerships (IRC 6039F(a), (d))",
+  "year": 2023,
+  "amount": 18567,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2022-38, sec. 3.47, 2022-45 I.R.B. 445, 453",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb22-45.pdf",
+  "note": "Report on Form 3520 when aggregate purported gifts from foreign corporations and foreign partnerships in the taxable year exceed this amount (indexed form of the $10,000 in IRC 6039F(a))."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_corp_partnership",
+  "figure_name": "Form 3520 reporting threshold: gifts from foreign corporations and partnerships (IRC 6039F(a), (d))",
+  "year": 2024,
+  "amount": 19570,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2023-34, sec. 3.48, 2023-48 I.R.B. 1287, 1296",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb23-48.pdf",
+  "note": "Report on Form 3520 when aggregate purported gifts from foreign corporations and foreign partnerships in the taxable year exceed this amount (indexed form of the $10,000 in IRC 6039F(a))."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_corp_partnership",
+  "figure_name": "Form 3520 reporting threshold: gifts from foreign corporations and partnerships (IRC 6039F(a), (d))",
+  "year": 2025,
+  "amount": 20116,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2024-40, sec. 2.48, 2024-45 I.R.B. 1100, 1107",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb24-45.pdf",
+  "note": "Report on Form 3520 when aggregate purported gifts from foreign corporations and foreign partnerships in the taxable year exceed this amount (indexed form of the $10,000 in IRC 6039F(a))."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_corp_partnership",
+  "figure_name": "Form 3520 reporting threshold: gifts from foreign corporations and partnerships (IRC 6039F(a), (d))",
+  "year": 2026,
+  "amount": 20573,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2025-32, sec. 4.47, 2025-45 I.R.B. 695, 704",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb25-45.pdf",
+  "note": "Report on Form 3520 when aggregate purported gifts from foreign corporations and foreign partnerships in the taxable year exceed this amount (indexed form of the $10,000 in IRC 6039F(a))."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_individual",
+  "figure_name": "Form 3520 reporting threshold: gifts and bequests from nonresident alien individuals and foreign estates",
+  "year": 2015,
+  "amount": 100000,
+  "unit": "USD",
+  "authority": "Notice 97-34, sec. VI.B.1, 1997-25 I.R.B. 22, 30",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb97-25.pdf",
+  "note": "Not indexed. The $100,000 threshold is administrative (Notice 97-34), not in IRC 6039F, which indexes only the $10,000 amount; count gifts from related foreign persons together (sec. VI.B.3)."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_individual",
+  "figure_name": "Form 3520 reporting threshold: gifts and bequests from nonresident alien individuals and foreign estates",
+  "year": 2016,
+  "amount": 100000,
+  "unit": "USD",
+  "authority": "Notice 97-34, sec. VI.B.1, 1997-25 I.R.B. 22, 30",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb97-25.pdf",
+  "note": "Not indexed. The $100,000 threshold is administrative (Notice 97-34), not in IRC 6039F, which indexes only the $10,000 amount; count gifts from related foreign persons together (sec. VI.B.3)."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_individual",
+  "figure_name": "Form 3520 reporting threshold: gifts and bequests from nonresident alien individuals and foreign estates",
+  "year": 2017,
+  "amount": 100000,
+  "unit": "USD",
+  "authority": "Notice 97-34, sec. VI.B.1, 1997-25 I.R.B. 22, 30",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb97-25.pdf",
+  "note": "Not indexed. The $100,000 threshold is administrative (Notice 97-34), not in IRC 6039F, which indexes only the $10,000 amount; count gifts from related foreign persons together (sec. VI.B.3)."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_individual",
+  "figure_name": "Form 3520 reporting threshold: gifts and bequests from nonresident alien individuals and foreign estates",
+  "year": 2018,
+  "amount": 100000,
+  "unit": "USD",
+  "authority": "Notice 97-34, sec. VI.B.1, 1997-25 I.R.B. 22, 30",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb97-25.pdf",
+  "note": "Not indexed. The $100,000 threshold is administrative (Notice 97-34), not in IRC 6039F, which indexes only the $10,000 amount; count gifts from related foreign persons together (sec. VI.B.3)."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_individual",
+  "figure_name": "Form 3520 reporting threshold: gifts and bequests from nonresident alien individuals and foreign estates",
+  "year": 2019,
+  "amount": 100000,
+  "unit": "USD",
+  "authority": "Notice 97-34, sec. VI.B.1, 1997-25 I.R.B. 22, 30",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb97-25.pdf",
+  "note": "Not indexed. The $100,000 threshold is administrative (Notice 97-34), not in IRC 6039F, which indexes only the $10,000 amount; count gifts from related foreign persons together (sec. VI.B.3)."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_individual",
+  "figure_name": "Form 3520 reporting threshold: gifts and bequests from nonresident alien individuals and foreign estates",
+  "year": 2020,
+  "amount": 100000,
+  "unit": "USD",
+  "authority": "Notice 97-34, sec. VI.B.1, 1997-25 I.R.B. 22, 30",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb97-25.pdf",
+  "note": "Not indexed. The $100,000 threshold is administrative (Notice 97-34), not in IRC 6039F, which indexes only the $10,000 amount; count gifts from related foreign persons together (sec. VI.B.3)."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_individual",
+  "figure_name": "Form 3520 reporting threshold: gifts and bequests from nonresident alien individuals and foreign estates",
+  "year": 2021,
+  "amount": 100000,
+  "unit": "USD",
+  "authority": "Notice 97-34, sec. VI.B.1, 1997-25 I.R.B. 22, 30",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb97-25.pdf",
+  "note": "Not indexed. The $100,000 threshold is administrative (Notice 97-34), not in IRC 6039F, which indexes only the $10,000 amount; count gifts from related foreign persons together (sec. VI.B.3)."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_individual",
+  "figure_name": "Form 3520 reporting threshold: gifts and bequests from nonresident alien individuals and foreign estates",
+  "year": 2022,
+  "amount": 100000,
+  "unit": "USD",
+  "authority": "Notice 97-34, sec. VI.B.1, 1997-25 I.R.B. 22, 30",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb97-25.pdf",
+  "note": "Not indexed. The $100,000 threshold is administrative (Notice 97-34), not in IRC 6039F, which indexes only the $10,000 amount; count gifts from related foreign persons together (sec. VI.B.3)."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_individual",
+  "figure_name": "Form 3520 reporting threshold: gifts and bequests from nonresident alien individuals and foreign estates",
+  "year": 2023,
+  "amount": 100000,
+  "unit": "USD",
+  "authority": "Notice 97-34, sec. VI.B.1, 1997-25 I.R.B. 22, 30",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb97-25.pdf",
+  "note": "Not indexed. The $100,000 threshold is administrative (Notice 97-34), not in IRC 6039F, which indexes only the $10,000 amount; count gifts from related foreign persons together (sec. VI.B.3)."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_individual",
+  "figure_name": "Form 3520 reporting threshold: gifts and bequests from nonresident alien individuals and foreign estates",
+  "year": 2024,
+  "amount": 100000,
+  "unit": "USD",
+  "authority": "Notice 97-34, sec. VI.B.1, 1997-25 I.R.B. 22, 30",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb97-25.pdf",
+  "note": "Not indexed. The $100,000 threshold is administrative (Notice 97-34), not in IRC 6039F, which indexes only the $10,000 amount; count gifts from related foreign persons together (sec. VI.B.3)."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_individual",
+  "figure_name": "Form 3520 reporting threshold: gifts and bequests from nonresident alien individuals and foreign estates",
+  "year": 2025,
+  "amount": 100000,
+  "unit": "USD",
+  "authority": "Notice 97-34, sec. VI.B.1, 1997-25 I.R.B. 22, 30",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb97-25.pdf",
+  "note": "Not indexed. The $100,000 threshold is administrative (Notice 97-34), not in IRC 6039F, which indexes only the $10,000 amount; count gifts from related foreign persons together (sec. VI.B.3)."
+ },
+ {
+  "figure_id": "form3520_foreign_gift_individual",
+  "figure_name": "Form 3520 reporting threshold: gifts and bequests from nonresident alien individuals and foreign estates",
+  "year": 2026,
+  "amount": 100000,
+  "unit": "USD",
+  "authority": "Notice 97-34, sec. VI.B.1, 1997-25 I.R.B. 22, 30",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb97-25.pdf",
+  "note": "Not indexed. The $100,000 threshold is administrative (Notice 97-34), not in IRC 6039F, which indexes only the $10,000 amount; count gifts from related foreign persons together (sec. VI.B.3)."
+ },
+ {
+  "figure_id": "expatriation_avg_tax_liability",
+  "figure_name": "Covered expatriate tax liability test: average annual net income tax (IRC 877(a)(2)(A))",
+  "year": 2015,
+  "amount": 160000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2014-61, sec. 3.30, 2014-47 I.R.B. 860, 867",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb14-47.pdf",
+  "note": "Average annual net income tax for the 5 taxable years ending before the expatriation date; exceeding it makes the person a covered expatriate unless an 877A(g)(1)(B) exception applies. Keyed to the calendar year of expatriation."
+ },
+ {
+  "figure_id": "expatriation_avg_tax_liability",
+  "figure_name": "Covered expatriate tax liability test: average annual net income tax (IRC 877(a)(2)(A))",
+  "year": 2016,
+  "amount": 161000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2015-53, sec. 3.30, 2015-44 I.R.B. 615, 623",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb15-44.pdf",
+  "note": "Average annual net income tax for the 5 taxable years ending before the expatriation date; exceeding it makes the person a covered expatriate unless an 877A(g)(1)(B) exception applies. Keyed to the calendar year of expatriation."
+ },
+ {
+  "figure_id": "expatriation_avg_tax_liability",
+  "figure_name": "Covered expatriate tax liability test: average annual net income tax (IRC 877(a)(2)(A))",
+  "year": 2017,
+  "amount": 162000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2016-55, sec. 3.32, 2016-45 I.R.B. 707, 714",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb16-45.pdf",
+  "note": "Average annual net income tax for the 5 taxable years ending before the expatriation date; exceeding it makes the person a covered expatriate unless an 877A(g)(1)(B) exception applies. Keyed to the calendar year of expatriation."
+ },
+ {
+  "figure_id": "expatriation_avg_tax_liability",
+  "figure_name": "Covered expatriate tax liability test: average annual net income tax (IRC 877(a)(2)(A))",
+  "year": 2018,
+  "amount": 165000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2017-58, sec. 3.32, 2017-45 I.R.B. 489, 495",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb17-45.pdf",
+  "note": "Average annual net income tax for the 5 taxable years ending before the expatriation date; exceeding it makes the person a covered expatriate unless an 877A(g)(1)(B) exception applies. Keyed to the calendar year of expatriation. Rev. Proc. 2017-58 amount; not among the items Rev. Proc. 2018-18 modified."
+ },
+ {
+  "figure_id": "expatriation_avg_tax_liability",
+  "figure_name": "Covered expatriate tax liability test: average annual net income tax (IRC 877(a)(2)(A))",
+  "year": 2019,
+  "amount": 168000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2018-57, sec. 3.37, 2018-49 I.R.B. 827, 834",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb18-49.pdf",
+  "note": "Average annual net income tax for the 5 taxable years ending before the expatriation date; exceeding it makes the person a covered expatriate unless an 877A(g)(1)(B) exception applies. Keyed to the calendar year of expatriation."
+ },
+ {
+  "figure_id": "expatriation_avg_tax_liability",
+  "figure_name": "Covered expatriate tax liability test: average annual net income tax (IRC 877(a)(2)(A))",
+  "year": 2020,
+  "amount": 171000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2019-44, sec. 3.37, 2019-47 I.R.B. 1093, 1100",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb19-47.pdf",
+  "note": "Average annual net income tax for the 5 taxable years ending before the expatriation date; exceeding it makes the person a covered expatriate unless an 877A(g)(1)(B) exception applies. Keyed to the calendar year of expatriation."
+ },
+ {
+  "figure_id": "expatriation_avg_tax_liability",
+  "figure_name": "Covered expatriate tax liability test: average annual net income tax (IRC 877(a)(2)(A))",
+  "year": 2021,
+  "amount": 172000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2020-45, sec. 3.37, 2020-46 I.R.B. 1016, 1023",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb20-46.pdf",
+  "note": "Average annual net income tax for the 5 taxable years ending before the expatriation date; exceeding it makes the person a covered expatriate unless an 877A(g)(1)(B) exception applies. Keyed to the calendar year of expatriation."
+ },
+ {
+  "figure_id": "expatriation_avg_tax_liability",
+  "figure_name": "Covered expatriate tax liability test: average annual net income tax (IRC 877(a)(2)(A))",
+  "year": 2022,
+  "amount": 178000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2021-45, sec. 3.37, 2021-48 I.R.B. 764, 772",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb21-48.pdf",
+  "note": "Average annual net income tax for the 5 taxable years ending before the expatriation date; exceeding it makes the person a covered expatriate unless an 877A(g)(1)(B) exception applies. Keyed to the calendar year of expatriation."
+ },
+ {
+  "figure_id": "expatriation_avg_tax_liability",
+  "figure_name": "Covered expatriate tax liability test: average annual net income tax (IRC 877(a)(2)(A))",
+  "year": 2023,
+  "amount": 190000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2022-38, sec. 3.37, 2022-45 I.R.B. 445, 453",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb22-45.pdf",
+  "note": "Average annual net income tax for the 5 taxable years ending before the expatriation date; exceeding it makes the person a covered expatriate unless an 877A(g)(1)(B) exception applies. Keyed to the calendar year of expatriation."
+ },
+ {
+  "figure_id": "expatriation_avg_tax_liability",
+  "figure_name": "Covered expatriate tax liability test: average annual net income tax (IRC 877(a)(2)(A))",
+  "year": 2024,
+  "amount": 201000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2023-34, sec. 3.37, 2023-48 I.R.B. 1287, 1295",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb23-48.pdf",
+  "note": "Average annual net income tax for the 5 taxable years ending before the expatriation date; exceeding it makes the person a covered expatriate unless an 877A(g)(1)(B) exception applies. Keyed to the calendar year of expatriation."
+ },
+ {
+  "figure_id": "expatriation_avg_tax_liability",
+  "figure_name": "Covered expatriate tax liability test: average annual net income tax (IRC 877(a)(2)(A))",
+  "year": 2025,
+  "amount": 206000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2024-40, sec. 2.37, 2024-45 I.R.B. 1100, 1107",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb24-45.pdf",
+  "note": "Average annual net income tax for the 5 taxable years ending before the expatriation date; exceeding it makes the person a covered expatriate unless an 877A(g)(1)(B) exception applies. Keyed to the calendar year of expatriation."
+ },
+ {
+  "figure_id": "expatriation_avg_tax_liability",
+  "figure_name": "Covered expatriate tax liability test: average annual net income tax (IRC 877(a)(2)(A))",
+  "year": 2026,
+  "amount": 211000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2025-32, sec. 4.37, 2025-45 I.R.B. 695, 704",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb25-45.pdf",
+  "note": "Average annual net income tax for the 5 taxable years ending before the expatriation date; exceeding it makes the person a covered expatriate unless an 877A(g)(1)(B) exception applies. Keyed to the calendar year of expatriation."
+ },
+ {
+  "figure_id": "expatriation_877a_exclusion",
+  "figure_name": "Expatriation mark-to-market exclusion amount (IRC 877A(a)(3))",
+  "year": 2015,
+  "amount": 690000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2014-61, sec. 3.31, 2014-47 I.R.B. 860, 867",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb14-47.pdf",
+  "note": "Reduces the mark-to-market gain of a covered expatriate (but not below zero). Keyed to the year of the expatriation date."
+ },
+ {
+  "figure_id": "expatriation_877a_exclusion",
+  "figure_name": "Expatriation mark-to-market exclusion amount (IRC 877A(a)(3))",
+  "year": 2016,
+  "amount": 693000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2015-53, sec. 3.31, 2015-44 I.R.B. 615, 623",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb15-44.pdf",
+  "note": "Reduces the mark-to-market gain of a covered expatriate (but not below zero). Keyed to the year of the expatriation date."
+ },
+ {
+  "figure_id": "expatriation_877a_exclusion",
+  "figure_name": "Expatriation mark-to-market exclusion amount (IRC 877A(a)(3))",
+  "year": 2017,
+  "amount": 699000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2016-55, sec. 3.33, 2016-45 I.R.B. 707, 714",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb16-45.pdf",
+  "note": "Reduces the mark-to-market gain of a covered expatriate (but not below zero). Keyed to the year of the expatriation date."
+ },
+ {
+  "figure_id": "expatriation_877a_exclusion",
+  "figure_name": "Expatriation mark-to-market exclusion amount (IRC 877A(a)(3))",
+  "year": 2018,
+  "amount": 711000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2018-18, sec. 3.33, 2018-10 I.R.B. 392, 397",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb18-10.pdf",
+  "note": "Reduces the mark-to-market gain of a covered expatriate (but not below zero). Keyed to the year of the expatriation date. Rev. Proc. 2018-18 superseded the $713,000 in Rev. Proc. 2017-58, sec. 3.33, 2017-45 I.R.B. 489, after Pub. L. 115-97 (TCJA)."
+ },
+ {
+  "figure_id": "expatriation_877a_exclusion",
+  "figure_name": "Expatriation mark-to-market exclusion amount (IRC 877A(a)(3))",
+  "year": 2019,
+  "amount": 725000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2018-57, sec. 3.38, 2018-49 I.R.B. 827, 835",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb18-49.pdf",
+  "note": "Reduces the mark-to-market gain of a covered expatriate (but not below zero). Keyed to the year of the expatriation date."
+ },
+ {
+  "figure_id": "expatriation_877a_exclusion",
+  "figure_name": "Expatriation mark-to-market exclusion amount (IRC 877A(a)(3))",
+  "year": 2020,
+  "amount": 737000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2019-44, sec. 3.38, 2019-47 I.R.B. 1093, 1100",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb19-47.pdf",
+  "note": "Reduces the mark-to-market gain of a covered expatriate (but not below zero). Keyed to the year of the expatriation date."
+ },
+ {
+  "figure_id": "expatriation_877a_exclusion",
+  "figure_name": "Expatriation mark-to-market exclusion amount (IRC 877A(a)(3))",
+  "year": 2021,
+  "amount": 744000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2020-45, sec. 3.38, 2020-46 I.R.B. 1016, 1023",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb20-46.pdf",
+  "note": "Reduces the mark-to-market gain of a covered expatriate (but not below zero). Keyed to the year of the expatriation date."
+ },
+ {
+  "figure_id": "expatriation_877a_exclusion",
+  "figure_name": "Expatriation mark-to-market exclusion amount (IRC 877A(a)(3))",
+  "year": 2022,
+  "amount": 767000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2021-45, sec. 3.38, 2021-48 I.R.B. 764, 772",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb21-48.pdf",
+  "note": "Reduces the mark-to-market gain of a covered expatriate (but not below zero). Keyed to the year of the expatriation date."
+ },
+ {
+  "figure_id": "expatriation_877a_exclusion",
+  "figure_name": "Expatriation mark-to-market exclusion amount (IRC 877A(a)(3))",
+  "year": 2023,
+  "amount": 821000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2022-38, sec. 3.38, 2022-45 I.R.B. 445, 453",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb22-45.pdf",
+  "note": "Reduces the mark-to-market gain of a covered expatriate (but not below zero). Keyed to the year of the expatriation date."
+ },
+ {
+  "figure_id": "expatriation_877a_exclusion",
+  "figure_name": "Expatriation mark-to-market exclusion amount (IRC 877A(a)(3))",
+  "year": 2024,
+  "amount": 866000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2023-34, sec. 3.38, 2023-48 I.R.B. 1287, 1295",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb23-48.pdf",
+  "note": "Reduces the mark-to-market gain of a covered expatriate (but not below zero). Keyed to the year of the expatriation date."
+ },
+ {
+  "figure_id": "expatriation_877a_exclusion",
+  "figure_name": "Expatriation mark-to-market exclusion amount (IRC 877A(a)(3))",
+  "year": 2025,
+  "amount": 890000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2024-40, sec. 2.38, 2024-45 I.R.B. 1100, 1107",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb24-45.pdf",
+  "note": "Reduces the mark-to-market gain of a covered expatriate (but not below zero). Keyed to the year of the expatriation date."
+ },
+ {
+  "figure_id": "expatriation_877a_exclusion",
+  "figure_name": "Expatriation mark-to-market exclusion amount (IRC 877A(a)(3))",
+  "year": 2026,
+  "amount": 910000,
+  "unit": "USD",
+  "authority": "Rev. Proc. 2025-32, sec. 4.38, 2025-45 I.R.B. 695, 704",
+  "authority_url": "https://www.irs.gov/pub/irs-irbs/irb25-45.pdf",
+  "note": "Reduces the mark-to-market gain of a covered expatriate (but not below zero). Keyed to the year of the expatriation date."
+ },
+ {
+  "figure_id": "fbar_penalty_nonwillful_max",
+  "figure_name": "FBAR civil penalty, non-willful violation, maximum (31 U.S.C. 5321(a)(5)(B)(i))",
+  "year": 2015,
+  "amount": 10000,
+  "unit": "USD",
+  "authority": "31 U.S.C. 5321(a)(5)(B)(i)",
+  "authority_url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title31/html/USCODE-2024-title31-subtitleIV-chap53-subchapII-sec5321.htm",
+  "note": "Statutory amount; the first inflation adjustment took effect August 1, 2016."
+ },
+ {
+  "figure_id": "fbar_penalty_nonwillful_max",
+  "figure_name": "FBAR civil penalty, non-willful violation, maximum (31 U.S.C. 5321(a)(5)(B)(i))",
+  "year": 2016,
+  "amount": 12459,
+  "unit": "USD",
+  "authority": "81 FR 42503 (2016-06-30), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2016-15653",
+  "note": "Adjustment effective 2016-08-01; applies to penalties assessed after that date for violations after November 2, 2015."
+ },
+ {
+  "figure_id": "fbar_penalty_nonwillful_max",
+  "figure_name": "FBAR civil penalty, non-willful violation, maximum (31 U.S.C. 5321(a)(5)(B)(i))",
+  "year": 2017,
+  "amount": 12663,
+  "unit": "USD",
+  "authority": "82 FR 10434 (2017-02-10), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2017-01637",
+  "note": "Adjustment effective 2017-02-10; applies to penalties assessed after that date for violations after November 2, 2015."
+ },
+ {
+  "figure_id": "fbar_penalty_nonwillful_max",
+  "figure_name": "FBAR civil penalty, non-willful violation, maximum (31 U.S.C. 5321(a)(5)(B)(i))",
+  "year": 2018,
+  "amount": 12921,
+  "unit": "USD",
+  "authority": "83 FR 11876 (2018-03-19), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2018-05550",
+  "note": "Adjustment effective 2018-03-19; applies to penalties assessed after that date for violations after November 2, 2015. Treasury-wide rule covering FinCEN; 84 FR 51973 (Oct. 1, 2019) later corrected its table dates, not its amounts."
+ },
+ {
+  "figure_id": "fbar_penalty_nonwillful_max",
+  "figure_name": "FBAR civil penalty, non-willful violation, maximum (31 U.S.C. 5321(a)(5)(B)(i))",
+  "year": 2019,
+  "amount": 13247,
+  "unit": "USD",
+  "authority": "84 FR 54495 (2019-10-10), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2019-22094",
+  "note": "Adjustment effective 2019-10-10; applies to penalties assessed after that date for violations after November 2, 2015."
+ },
+ {
+  "figure_id": "fbar_penalty_nonwillful_max",
+  "figure_name": "FBAR civil penalty, non-willful violation, maximum (31 U.S.C. 5321(a)(5)(B)(i))",
+  "year": 2020,
+  "amount": 13481,
+  "unit": "USD",
+  "authority": "85 FR 9370 (2020-02-19), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2020-02526",
+  "note": "Adjustment effective 2020-02-19; applies to penalties assessed after that date for violations after November 2, 2015."
+ },
+ {
+  "figure_id": "fbar_penalty_nonwillful_max",
+  "figure_name": "FBAR civil penalty, non-willful violation, maximum (31 U.S.C. 5321(a)(5)(B)(i))",
+  "year": 2021,
+  "amount": 13640,
+  "unit": "USD",
+  "authority": "86 FR 7348 (2021-01-28), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2021-01919",
+  "note": "Adjustment effective 2021-01-28; applies to penalties assessed after that date for violations after November 2, 2015."
+ },
+ {
+  "figure_id": "fbar_penalty_nonwillful_max",
+  "figure_name": "FBAR civil penalty, non-willful violation, maximum (31 U.S.C. 5321(a)(5)(B)(i))",
+  "year": 2022,
+  "amount": 14489,
+  "unit": "USD",
+  "authority": "87 FR 3433 (2022-01-24), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2022-01284",
+  "note": "Adjustment effective 2022-01-24; applies to penalties assessed after that date for violations after November 2, 2015."
+ },
+ {
+  "figure_id": "fbar_penalty_nonwillful_max",
+  "figure_name": "FBAR civil penalty, non-willful violation, maximum (31 U.S.C. 5321(a)(5)(B)(i))",
+  "year": 2023,
+  "amount": 15611,
+  "unit": "USD",
+  "authority": "88 FR 3311 (2023-01-19), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2023-00943",
+  "note": "Adjustment effective 2023-01-19; applies to penalties assessed after that date for violations after November 2, 2015."
+ },
+ {
+  "figure_id": "fbar_penalty_nonwillful_max",
+  "figure_name": "FBAR civil penalty, non-willful violation, maximum (31 U.S.C. 5321(a)(5)(B)(i))",
+  "year": 2024,
+  "amount": 16117,
+  "unit": "USD",
+  "authority": "89 FR 4820 (2024-01-25), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2024-01420",
+  "note": "Adjustment effective 2024-01-25; applies to penalties assessed after that date for violations after November 2, 2015."
+ },
+ {
+  "figure_id": "fbar_penalty_nonwillful_max",
+  "figure_name": "FBAR civil penalty, non-willful violation, maximum (31 U.S.C. 5321(a)(5)(B)(i))",
+  "year": 2025,
+  "amount": 16536,
+  "unit": "USD",
+  "authority": "90 FR 5629 (2025-01-17), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2025-01374",
+  "note": "Adjustment effective 2025-01-17; applies to penalties assessed after that date for violations after November 2, 2015."
+ },
+ {
+  "figure_id": "fbar_penalty_nonwillful_max",
+  "figure_name": "FBAR civil penalty, non-willful violation, maximum (31 U.S.C. 5321(a)(5)(B)(i))",
+  "year": 2026,
+  "amount": 16536,
+  "unit": "USD",
+  "authority": "90 FR 5629 (2025-01-17), amending 31 CFR 1010.821, Table 1; 2026 adjustment cancelled by OMB M-26-11 (Apr. 17, 2026), as reported at 91 FR 25936 (2026-05-12)",
+  "authority_url": "https://www.federalregister.gov/d/2025-01374",
+  "note": "No 2026 adjustment. OMB memorandum M-26-11 (Apr. 17, 2026) cancelled the 2026 civil penalty inflation adjustment and told agencies to keep 2025 levels; FinCEN published no 2026 adjustment in the Federal Register (searched through 2026-09-23), so the 2025 amount carries over."
+ },
+ {
+  "figure_id": "fbar_penalty_willful_max_floor",
+  "figure_name": "FBAR civil penalty, willful violation: the dollar amount in the maximum (greater of this amount or 50% of the balance) (31 U.S.C. 5321(a)(5)(C)(i))",
+  "year": 2015,
+  "amount": 100000,
+  "unit": "USD",
+  "authority": "31 U.S.C. 5321(a)(5)(C)(i)(I)",
+  "authority_url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title31/html/USCODE-2024-title31-subtitleIV-chap53-subchapII-sec5321.htm",
+  "note": "Statutory amount; maximum is the greater of this amount or 50% of the account balance at the time of the violation (5321(a)(5)(C)(i)(II), (D))."
+ },
+ {
+  "figure_id": "fbar_penalty_willful_max_floor",
+  "figure_name": "FBAR civil penalty, willful violation: the dollar amount in the maximum (greater of this amount or 50% of the balance) (31 U.S.C. 5321(a)(5)(C)(i))",
+  "year": 2016,
+  "amount": 124588,
+  "unit": "USD",
+  "authority": "81 FR 42503 (2016-06-30), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2016-15653",
+  "note": "Adjustment effective 2016-08-01; applies to penalties assessed after that date for violations after November 2, 2015. Maximum is the greater of this amount or 50% of the balance (31 U.S.C. 5321(a)(5)(C), (D))."
+ },
+ {
+  "figure_id": "fbar_penalty_willful_max_floor",
+  "figure_name": "FBAR civil penalty, willful violation: the dollar amount in the maximum (greater of this amount or 50% of the balance) (31 U.S.C. 5321(a)(5)(C)(i))",
+  "year": 2017,
+  "amount": 126626,
+  "unit": "USD",
+  "authority": "82 FR 10434 (2017-02-10), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2017-01637",
+  "note": "Adjustment effective 2017-02-10; applies to penalties assessed after that date for violations after November 2, 2015. Maximum is the greater of this amount or 50% of the balance (31 U.S.C. 5321(a)(5)(C), (D))."
+ },
+ {
+  "figure_id": "fbar_penalty_willful_max_floor",
+  "figure_name": "FBAR civil penalty, willful violation: the dollar amount in the maximum (greater of this amount or 50% of the balance) (31 U.S.C. 5321(a)(5)(C)(i))",
+  "year": 2018,
+  "amount": 129210,
+  "unit": "USD",
+  "authority": "83 FR 11876 (2018-03-19), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2018-05550",
+  "note": "Adjustment effective 2018-03-19; applies to penalties assessed after that date for violations after November 2, 2015. Treasury-wide rule covering FinCEN; 84 FR 51973 (Oct. 1, 2019) later corrected its table dates, not its amounts. Maximum is the greater of this amount or 50% of the balance (31 U.S.C. 5321(a)(5)(C), (D))."
+ },
+ {
+  "figure_id": "fbar_penalty_willful_max_floor",
+  "figure_name": "FBAR civil penalty, willful violation: the dollar amount in the maximum (greater of this amount or 50% of the balance) (31 U.S.C. 5321(a)(5)(C)(i))",
+  "year": 2019,
+  "amount": 132469,
+  "unit": "USD",
+  "authority": "84 FR 54495 (2019-10-10), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2019-22094",
+  "note": "Adjustment effective 2019-10-10; applies to penalties assessed after that date for violations after November 2, 2015. Maximum is the greater of this amount or 50% of the balance (31 U.S.C. 5321(a)(5)(C), (D))."
+ },
+ {
+  "figure_id": "fbar_penalty_willful_max_floor",
+  "figure_name": "FBAR civil penalty, willful violation: the dollar amount in the maximum (greater of this amount or 50% of the balance) (31 U.S.C. 5321(a)(5)(C)(i))",
+  "year": 2020,
+  "amount": 134806,
+  "unit": "USD",
+  "authority": "85 FR 9370 (2020-02-19), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2020-02526",
+  "note": "Adjustment effective 2020-02-19; applies to penalties assessed after that date for violations after November 2, 2015. Maximum is the greater of this amount or 50% of the balance (31 U.S.C. 5321(a)(5)(C), (D))."
+ },
+ {
+  "figure_id": "fbar_penalty_willful_max_floor",
+  "figure_name": "FBAR civil penalty, willful violation: the dollar amount in the maximum (greater of this amount or 50% of the balance) (31 U.S.C. 5321(a)(5)(C)(i))",
+  "year": 2021,
+  "amount": 136399,
+  "unit": "USD",
+  "authority": "86 FR 7348 (2021-01-28), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2021-01919",
+  "note": "Adjustment effective 2021-01-28; applies to penalties assessed after that date for violations after November 2, 2015. Maximum is the greater of this amount or 50% of the balance (31 U.S.C. 5321(a)(5)(C), (D))."
+ },
+ {
+  "figure_id": "fbar_penalty_willful_max_floor",
+  "figure_name": "FBAR civil penalty, willful violation: the dollar amount in the maximum (greater of this amount or 50% of the balance) (31 U.S.C. 5321(a)(5)(C)(i))",
+  "year": 2022,
+  "amount": 144886,
+  "unit": "USD",
+  "authority": "87 FR 3433 (2022-01-24), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2022-01284",
+  "note": "Adjustment effective 2022-01-24; applies to penalties assessed after that date for violations after November 2, 2015. Maximum is the greater of this amount or 50% of the balance (31 U.S.C. 5321(a)(5)(C), (D))."
+ },
+ {
+  "figure_id": "fbar_penalty_willful_max_floor",
+  "figure_name": "FBAR civil penalty, willful violation: the dollar amount in the maximum (greater of this amount or 50% of the balance) (31 U.S.C. 5321(a)(5)(C)(i))",
+  "year": 2023,
+  "amount": 156107,
+  "unit": "USD",
+  "authority": "88 FR 3311 (2023-01-19), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2023-00943",
+  "note": "Adjustment effective 2023-01-19; applies to penalties assessed after that date for violations after November 2, 2015. Maximum is the greater of this amount or 50% of the balance (31 U.S.C. 5321(a)(5)(C), (D))."
+ },
+ {
+  "figure_id": "fbar_penalty_willful_max_floor",
+  "figure_name": "FBAR civil penalty, willful violation: the dollar amount in the maximum (greater of this amount or 50% of the balance) (31 U.S.C. 5321(a)(5)(C)(i))",
+  "year": 2024,
+  "amount": 161166,
+  "unit": "USD",
+  "authority": "89 FR 4820 (2024-01-25), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2024-01420",
+  "note": "Adjustment effective 2024-01-25; applies to penalties assessed after that date for violations after November 2, 2015. Maximum is the greater of this amount or 50% of the balance (31 U.S.C. 5321(a)(5)(C), (D))."
+ },
+ {
+  "figure_id": "fbar_penalty_willful_max_floor",
+  "figure_name": "FBAR civil penalty, willful violation: the dollar amount in the maximum (greater of this amount or 50% of the balance) (31 U.S.C. 5321(a)(5)(C)(i))",
+  "year": 2025,
+  "amount": 165353,
+  "unit": "USD",
+  "authority": "90 FR 5629 (2025-01-17), amending 31 CFR 1010.821, Table 1",
+  "authority_url": "https://www.federalregister.gov/d/2025-01374",
+  "note": "Adjustment effective 2025-01-17; applies to penalties assessed after that date for violations after November 2, 2015. Maximum is the greater of this amount or 50% of the balance (31 U.S.C. 5321(a)(5)(C), (D))."
+ },
+ {
+  "figure_id": "fbar_penalty_willful_max_floor",
+  "figure_name": "FBAR civil penalty, willful violation: the dollar amount in the maximum (greater of this amount or 50% of the balance) (31 U.S.C. 5321(a)(5)(C)(i))",
+  "year": 2026,
+  "amount": 165353,
+  "unit": "USD",
+  "authority": "90 FR 5629 (2025-01-17), amending 31 CFR 1010.821, Table 1; 2026 adjustment cancelled by OMB M-26-11 (Apr. 17, 2026), as reported at 91 FR 25936 (2026-05-12)",
+  "authority_url": "https://www.federalregister.gov/d/2025-01374",
+  "note": "No 2026 adjustment. OMB memorandum M-26-11 (Apr. 17, 2026) cancelled the 2026 civil penalty inflation adjustment and told agencies to keep 2025 levels; FinCEN published no 2026 adjustment in the Federal Register (searched through 2026-09-23), so the 2025 amount carries over."
+ },
+ {
+  "figure_id": "nra_estate_credit",
+  "figure_name": "Estate tax unified credit for nonresident non-citizen decedents (IRC 2102(b)(1))",
+  "year": null,
+  "amount": 13000,
+  "unit": "USD",
+  "authority": "IRC 2102(b)(1)",
+  "authority_url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title26/html/USCODE-2024-title26-subtitleB-chap11-subchapB-sec2102.htm",
+  "note": "One row for all years: not indexed, and the same $13,000 applies to every year 2015 to 2026 (substituted for $3,600 by Pub. L. 100-647 in 1988). Treaties can change the credit (IRC 2102(b)(3)(A)). Year is left blank on purpose."
+ }
+]

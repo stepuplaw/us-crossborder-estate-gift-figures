@@ -1,0 +1,25 @@
+Rev. Proc. 2016-55, 2016-45 I.R.B. 707
+Text from the local IRB corpus, issue 2016-45 (https://www.irs.gov/pub/irs-irbs/irb16-45.pdf).
+First page 707 is from the IRB cumulative finding lists. Pin pages (after the first page) come from the page markers in the extracted text, read in the footer layout that reproduces the first page.
+
+--- basic_exclusion: Rev. Proc. 2016-55, sec. 3.35, 2016-45 I.R.B. 707, 714 ---
+.35 Unified Credit Against Estate Tax. For an estate of any decedent dying in calendar year 2017, the basic exclusion amount is $5,490,000 for determining the amount of the unified credit against estate tax under § 2010.
+
+--- section_2032a_cap: Rev. Proc. 2016-55, sec. 3.36, 2016-45 I.R.B. 707, 714 ---
+.36 Valuation of Qualified Real Property in Decedent's Gross Estate. For an estate of a decedent dying in calendar year 2017, if the executor elects to use the special use valuation method under § 2032A for qualified real property, the aggregate decrease in the value of qualified real property resulting from electing to use § 2032A for purposes of the estate tax cannot exceed $1,120,000.
+
+--- gift_annual_exclusion: Rev. Proc. 2016-55, sec. 3.37, 2016-45 I.R.B. 707, 714 ---
+.37 Annual Exclusion for Gifts. (1) For calendar year 2017, the first $14,000 of gifts to any person (other than gifts of future interests in property) are not included in the total amount of taxable gifts under § 2503 made during that year. (2) For calendar year 2017, the first $149,000 of gifts to a spouse who is not a citizen of the United States (other than gifts of future interests in property) are not included in the total amount of taxable gifts under §§ 2503 and 2523(i)(2) made during that year.
+
+--- form3520_foreign_gift_corp_partnership: Rev. Proc. 2016-55, sec. 3.42, 2016-45 I.R.B. 707, 714 ---
+.42 Notice of Large Gifts Received from Foreign Persons. For taxable years beginning in 2017, § 6039F authorizes the Treasury Department and the Internal Revenue Service to require recipients of gifts from certain foreign persons to report these gifts if the aggregate value of gifts received in the taxable year exceeds $15,797.
+
+--- expatriation_avg_tax_liability: Rev. Proc. 2016-55, sec. 3.32, 2016-45 I.R.B. 707, 714 ---
+.32 Expatriation to Avoid Tax. For calendar year 2017, under § 877A(g)(1)(A), unless an exception under § 877A (g)(1)(B) applies, an individual is a covered expatriate if the individual's "average annual net income tax" under § 877(a)(2)(A) for the five taxable years ending before the expatriation date is more than $162,000.
+
+--- expatriation_877a_exclusion: Rev. Proc. 2016-55, sec. 3.33, 2016-45 I.R.B. 707, 714 ---
+.33 Tax Responsibilities of Expatriation. For taxable years beginning in 2017, the amount that would be includible in the gross income of a covered expatriate by reason of § 877A(a)(1) is reduced (but not below zero) by $699,000.
+
+--- section_6166_2pct_amount: Rev. Proc. 2016-55, sec. 3.45, 2016-45 I.R.B. 707, 714 ---
+.45 Interest on a Certain Portion of the Estate Tax Payable in Installments. For an estate of a decedent dying in calendar year 2017, the dollar amount used to determine the "2-percent portion" (for purposes of calculating interest under § 6601(j)) of the estate tax extended as provided in § 6166 is $1,490,000.
+

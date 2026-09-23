@@ -1,0 +1,7 @@
+85 FR 9370, 2020-02-19: Financial Crimes Enforcement Network; Inflation Adjustment of Civil Monetary Penalties
+FR Doc. 2020-02526. Text from GovInfo: https://www.govinfo.gov/content/pkg/FR-2020-02-19/html/2020-02526.htm
+DATES: Effective February 19, 2020.
+
+Table rows for 31 U.S.C. 5321(a)(5):
+5321(a)(5)(B)(i).............. Foreign Financial Agency 10,000 13,481 Transaction--Non-Willful Violation of Transaction. 
+5321(a)(5)(C)(i)(I)........... Foreign Financial Agency 100,000 134,806 Transaction--Willful Violation of Transaction. 
